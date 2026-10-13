@@ -1,0 +1,8 @@
+{
+  "name": "Negozio di Abbigliamento - Boutique Sartoria",
+  "description": "Elegante boutique di abbigliamento Made in Italy con collezioni donna e uomo, outfit builder interattivo, filtri avanzati e gestione carrello.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
