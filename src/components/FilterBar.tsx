@@ -8,13 +8,15 @@ interface FilterBarProps {
   onFilterChange: (filters: Partial<FilterState>) => void;
   onResetFilters: () => void;
   totalResults: number;
+  availableBrands?: string[];
 }
 
 export const FilterBar: React.FC<FilterBarProps> = ({
   filters,
   onFilterChange,
   onResetFilters,
-  totalResults
+  totalResults,
+  availableBrands = []
 }) => {
   const SIZES: ProductSize[] = ['XS', 'S', 'M', 'L', 'XL', '38', '40', '42', '44', '46', 'Unica'];
   const availableSubcategories = filters.category !== 'tutti' && filters.category !== 'saldi'
@@ -24,6 +26,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
   const hasActiveFilters = 
     filters.subcategory !== null || 
     filters.selectedSize !== null || 
+    filters.selectedBrand !== null ||
     filters.maxPrice < 600 || 
     filters.onSaleOnly || 
     Boolean(filters.search);
@@ -99,7 +102,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           </div>
         </div>
 
-        {/* Extended Filter Bar: Price Slider & Size Chips */}
+        {/* Extended Filter Bar: Price Slider, Sizes & Brands */}
         <div className="pt-2 border-t border-stone-100 flex flex-wrap items-center justify-between gap-4 text-xs">
           {/* Sizes */}
           <div className="flex items-center gap-2 flex-wrap">
@@ -119,14 +122,31 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             ))}
           </div>
 
+          {/* Brand Filter */}
+          {availableBrands.length > 0 && (
+            <div className="flex items-center gap-2">
+              <span className="text-stone-500 font-medium">Brand:</span>
+              <select
+                value={filters.selectedBrand || ''}
+                onChange={(e) => onFilterChange({ selectedBrand: e.target.value ? e.target.value : null })}
+                className="text-xs bg-stone-50 border border-stone-200 rounded-lg px-2 py-1 text-stone-800 cursor-pointer focus:outline-none"
+              >
+                <option value="">Tutti i Brand ({availableBrands.length})</option>
+                {availableBrands.map((b) => (
+                  <option key={b} value={b}>{b}</option>
+                ))}
+              </select>
+            </div>
+          )}
+
           {/* Price Range */}
           <div className="flex items-center gap-3">
             <span className="text-stone-500 font-medium">Prezzo max:</span>
             <input
               type="range"
-              min="80"
+              min="20"
               max="600"
-              step="20"
+              step="10"
               value={filters.maxPrice}
               onChange={(e) => onFilterChange({ maxPrice: Number(e.target.value) })}
               className="accent-stone-900 cursor-pointer w-28 sm:w-36"

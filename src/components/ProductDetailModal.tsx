@@ -16,7 +16,7 @@ import { Product, ProductColor, ProductSize } from '../types';
 interface ProductDetailModalProps {
   product: Product | null;
   onClose: () => void;
-  onAddToCart: (product: Product, size: ProductSize, color: ProductColor, quantity: number) => void;
+  onAddToCart: (product: Product, size: ProductSize | string, color: ProductColor, quantity: number) => void;
   isWishlisted: boolean;
   onToggleWishlist: (product: Product) => void;
   onOpenSizeGuide: () => void;
@@ -33,7 +33,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
   if (!product) return null;
 
   const [activeImageIdx, setActiveImageIdx] = useState(0);
-  const [selectedSize, setSelectedSize] = useState<ProductSize>(product.sizes[0] || 'M');
+  const [selectedSize, setSelectedSize] = useState<ProductSize | string>(product.sizes[0] || 'M');
   const [selectedColor, setSelectedColor] = useState<ProductColor>(product.colors[0]);
   const [quantity, setQuantity] = useState(1);
   const [addedSuccess, setAddedSuccess] = useState(false);

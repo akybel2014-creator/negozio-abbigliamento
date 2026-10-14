@@ -14,7 +14,7 @@ interface OutfitBuilderProps {
   isOpen: boolean;
   onClose: () => void;
   products: Product[];
-  onAddLookToCart: (items: { product: Product; size: ProductSize; color: ProductColor }[]) => void;
+  onAddLookToCart: (items: { product: Product; size: ProductSize | string; color: ProductColor }[]) => void;
 }
 
 export const OutfitBuilder: React.FC<OutfitBuilderProps> = ({

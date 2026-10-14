@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heart, Eye, ShoppingBag, Star, Sparkles } from 'lucide-react';
+import { Heart, Eye, ShoppingBag, Star, Sparkles, Scale } from 'lucide-react';
 import { Product } from '../types';
 
 interface ProductCardProps {
@@ -8,6 +8,8 @@ interface ProductCardProps {
   onToggleWishlist: (p: Product) => void;
   onQuickView: (p: Product) => void;
   onAddToCart: (p: Product) => void;
+  isCompared?: boolean;
+  onToggleCompare?: (p: Product) => void;
 }
 
 export const ProductCard: React.FC<ProductCardProps> = ({
@@ -15,14 +17,18 @@ export const ProductCard: React.FC<ProductCardProps> = ({
   isWishlisted,
   onToggleWishlist,
   onQuickView,
-  onAddToCart
+  onAddToCart,
+  isCompared = false,
+  onToggleCompare
 }) => {
   const discountPercent = product.originalPrice 
     ? Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100) 
     : 0;
 
   return (
-    <div className="group relative bg-white rounded-xl overflow-hidden border border-stone-200/80 hover:border-stone-400 hover:shadow-xl transition-all duration-300 flex flex-col">
+    <div className={`group relative bg-white rounded-xl overflow-hidden border transition-all duration-300 flex flex-col ${
+      isCompared ? 'border-amber-700 ring-2 ring-amber-700/20 shadow-md' : 'border-stone-200/80 hover:border-stone-400 hover:shadow-xl'
+    }`}>
       {/* Product Image Area */}
       <div className="relative aspect-[3/4] bg-stone-100 overflow-hidden cursor-pointer" onClick={() => onQuickView(product)}>
         <img
@@ -44,6 +50,11 @@ export const ProductCard: React.FC<ProductCardProps> = ({
 
         {/* Badges */}
         <div className="absolute top-3 left-3 flex flex-col gap-1.5 z-10">
+          {product.brand && (
+            <span className="px-2 py-0.5 text-[10px] font-bold tracking-wider uppercase bg-amber-900/90 text-amber-100 backdrop-blur-xs rounded shadow-xs">
+              {product.brand}
+            </span>
+          )}
           {product.isSale && (
             <span className="px-2.5 py-1 text-[11px] font-bold tracking-wider uppercase bg-amber-800 text-white rounded-md shadow-sm">
               -{discountPercent}% SALDI
@@ -67,21 +78,42 @@ export const ProductCard: React.FC<ProductCardProps> = ({
           )}
         </div>
 
-        {/* Wishlist Button */}
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            onToggleWishlist(product);
-          }}
-          className={`absolute top-3 right-3 p-2 rounded-full backdrop-blur-md transition-all z-10 cursor-pointer shadow-sm ${
-            isWishlisted
-              ? 'bg-red-50 text-red-600 scale-110'
-              : 'bg-white/80 text-stone-600 hover:text-stone-950 hover:bg-white'
-          }`}
-          aria-label="Aggiungi ai preferiti"
-        >
-          <Heart className={`w-4 h-4 ${isWishlisted ? 'fill-current text-red-600' : ''}`} />
-        </button>
+        {/* Top Right Action Buttons (Wishlist & Compare) */}
+        <div className="absolute top-3 right-3 flex flex-col gap-2 z-10">
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onToggleWishlist(product);
+            }}
+            className={`p-2 rounded-full backdrop-blur-md transition-all cursor-pointer shadow-sm ${
+              isWishlisted
+                ? 'bg-red-50 text-red-600 scale-110'
+                : 'bg-white/80 text-stone-600 hover:text-stone-950 hover:bg-white'
+            }`}
+            aria-label="Aggiungi ai preferiti"
+            title="Aggiungi ai preferiti"
+          >
+            <Heart className={`w-4 h-4 ${isWishlisted ? 'fill-current text-red-600' : ''}`} />
+          </button>
+
+          {onToggleCompare && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onToggleCompare(product);
+              }}
+              className={`p-2 rounded-full backdrop-blur-md transition-all cursor-pointer shadow-sm ${
+                isCompared
+                  ? 'bg-amber-900 text-white scale-110'
+                  : 'bg-white/80 text-stone-600 hover:text-stone-950 hover:bg-white'
+              }`}
+              aria-label="Confronta prodotto"
+              title={isCompared ? 'Rimuovi dal confronto' : 'Aggiungi al confronto'}
+            >
+              <Scale className="w-4 h-4" />
+            </button>
+          )}
+        </div>
 
         {/* Quick Actions Hover Overlay on Desktop */}
         <div className="absolute inset-x-3 bottom-3 flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">
@@ -113,8 +145,8 @@ export const ProductCard: React.FC<ProductCardProps> = ({
         <div>
           {/* Subcategory & Origin */}
           <div className="flex items-center justify-between text-[11px] text-stone-500 mb-1">
-            <span className="uppercase tracking-widest font-medium">{product.subcategory}</span>
-            <span className="text-amber-800 font-medium">{product.madeIn.split(',')[0]}</span>
+            <span className="uppercase tracking-widest font-medium truncate max-w-[150px]">{product.subcategory}</span>
+            <span className="text-amber-800 font-medium truncate max-w-[120px]">{product.madeIn.split(',')[0]}</span>
           </div>
 
           {/* Title */}

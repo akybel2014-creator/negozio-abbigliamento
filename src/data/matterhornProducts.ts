@@ -1,0 +1,10046 @@
+import { Product } from '../types';
+
+export const MATTERHORN_PRODUCTS: Product[] = [
+  {
+    "id": "mh-151575",
+    "name": "Pigiama model 151575 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 29,
+    "description": "Quando si tratta di comfort, lo stile sportivo è probabilmente il migliore. Quindi, se cercate un pigiama comodo e buono in colori tranquilli, date un'occhiata a questa proposta. La ben nota e popolare t-shirt con una delicata stampa al centro è completata da pantaloni al ginocchio lisci e comodi. Linea Henderson Premium, nuova collezione. . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: petto 98-102 cm, fianchi 102-106 cm . Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 151575",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897791.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.300Z"
+  },
+  {
+    "id": "mh-152053",
+    "name": "Pigiama model 152053 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 33,
+    "description": "Ti piacciono le combinazioni di colori interessanti e allo stesso tempo ti interessa il comfort? I pigiami a led della nuova collezione di Henderson potrebbero attirare la vostra attenzione. La maglietta con una stampa arancione al centro e un taglio pulito e sportivo si abbina perfettamente ai pantaloncini al ginocchio blu navy. Dimensioni . Taglia M: petto 94-98 cm, fianchi 98-102 cm Taglia L: petto 98-102 cm, fianchi 102-106 cm Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 152053",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/899297.jpg"
+    ],
+    "colors": [
+      {
+        "name": "arancione",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-224347",
+    "name": "completo model 224347 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "description": "Pratico set di due paia di boxer maschili nei classici colori blu e blu scuro. È una proposta universale per gli uomini che apprezzano il comfort, la semplicità e l'aspetto moderno. Il modello è realizzato in un tessuto liscio e piacevole al tatto, che garantisce comfort durante tutto il giorno. Il taglio aderente sottolinea la silhouette, garantendo al contempo libertà di movimento e una buona aderenza al corpo. L'ampia fascia in vita con stampa tiene saldamente intimo al suo posto e gli conferisce un carattere sportivo. È la scelta ideale sia per tutti i giorni che per uno stile di vita attivo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 224347",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1113838.jpg",
+      "https://matterhorn-moda.it/pics_source/1113839.jpg",
+      "https://matterhorn-moda.it/pics_source/1113840.jpg",
+      "https://matterhorn-moda.it/pics_source/1113841.jpg",
+      "https://matterhorn-moda.it/pics_source/1113847.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXXL",
+      "XXXXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-116219",
+    "name": "T-shirt model 116219 Henderson",
+    "subtitle": "T-shirt • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "description": "T-shirt model 116219 Henderson della linea ufficiale Henderson. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 116219",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/325047.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosa",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-134157",
+    "name": "completo model 134157 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 13,
+    "description": "Set di 2 boxer da uomo con un caratteristico elastico in vita, stampato con il logo del marchio Henderson. I boxer hanno un bell'aspetto grazie all'elastico leggermente lucido in vita, perfettamente abbinato allo slip colorato. Hanno un taglio sportivo con una parte anteriore comodamente profilata. Viene fornito con boxer blu e blu.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 134157",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/851166.jpg",
+      "https://matterhorn-moda.it/pics_source/851167.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-140490",
+    "name": "Boxer model 140490 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 35,
+    "description": "Per chi vuole un design interessante, l'ultima collezione di biancheria intima di Henderson comprende il modello Vista, cioè boxer di cotone ricoperti da un bel motivo geometrico. Top con banda elastica rifinito con il logo del marchio. Finitura delle gambe senza stringhe per un comfort completo. . Taglia M: petto 90-96 cm, vita 82-88 cm . Taglia L: petto 96-102 cm, vita 90-96 cm Taglia XL: petto 102-108 cm, vita 98-104 cm Taglia XXL: petto 108-114 cm, vita 106-110 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 140490",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/867768.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 11,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-224348",
+    "name": "completo model 224348 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 21,
+    "originalPrice": 26,
+    "wholesalePrice": 12.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 27,
+    "description": "Un set di due paia di boxer maschili è una combinazione di comfort e design moderno. Il set include un modello realizzato in materiale stampato e un modello in tessuto liscio, in modo da poter abbinare la biancheria intima al tuo stile e umore. Il taglio più lungo garantisce una migliore vestibilità e comfort durante tutto il giorno, evitando che il materiale si arrotoli. Il taglio che sottolinea la silhouette si adatta bene al corpo, senza limitare i movimenti. I boxer sono realizzati in un tessuto morbido e traspirante, piacevole sulla pelle e che garantisce una corretta circolazione dell'aria. L'ampia fascia in vita con stampa tiene saldamente la biancheria intima al suo posto e le conferisce un carattere sportivo e moderno. È la scelta ideale per tutti i giorni e per uno stile di vita attivo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 224348",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1113842.jpg",
+      "https://matterhorn-moda.it/pics_source/1113843.jpg",
+      "https://matterhorn-moda.it/pics_source/1113844.jpg",
+      "https://matterhorn-moda.it/pics_source/1113845.jpg",
+      "https://matterhorn-moda.it/pics_source/1113848.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-116220",
+    "name": "Canottiera model 116220 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 17,
+    "description": "Taglio sportivo e perfetto per le calde giornate estive. Il reggiseno è una maglietta con spalline più larghe, che avvolge il corpo in modo impressionante. Perfetto anche per la palestra. Funziona benissimo anche sotto una camicia. Liscio e disegnato con cotone arioso e confortevole elastan.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 116220",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/325097.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-219796",
+    "name": "Accappatoio da uomo model 219796 Henderson",
+    "subtitle": "Accappatoio da uomo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 40,
+    "originalPrice": 50,
+    "wholesalePrice": 24.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 31,
+    "description": "Accappatoio da uomo comodo con taglio ampio, realizzato in tessuto liscio, ideale da indossare a casa e durante il relax. Modello con cappuccio, maniche lunghe e tasche che uniscono comfort e praticità. L'accappatoio arriva sopra il ginocchio e ha una cintura per un perfetto adattamento alla silhouette. Ottimo anche come regalo elegante per una persona cara. Misure: Taglia M: Petto 94-98 cm, fianchi 98-102 cm Taglia L: Petto 98-102 cm, fianchi 102-106 cm Taglia XL: Petto 102-106 cm, fianchi 106-110 cm Taglia XXL: Petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: Petto 114-120 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 219796",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1098833.jpg",
+      "https://matterhorn-moda.it/pics_source/1098834.jpg",
+      "https://matterhorn-moda.it/pics_source/1098835.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-170146",
+    "name": "Pigiama model 170146 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 38,
+    "originalPrice": 48,
+    "wholesalePrice": 23.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 33,
+    "description": "Pigiama da uomo composto da felpa e pantaloni lunghi. Camicetta a maniche lunghe con scritta sul davanti. Pantaloni lunghi con coulisse da annodare. Pigiama dal taglio ampio e confortevole, realizzato in morbido tessuto. . Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: torace 102-106 cm, fianchi 106-110 cm Taglia XXL: torace 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 170146",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/950220.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-208607",
+    "name": "Pigiama model 208607 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 56,
+    "originalPrice": 70,
+    "wholesalePrice": 34.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 28,
+    "description": "Pigiama da uomo che unisce comfort ed eleganza, ideale sia per il riposo notturno che per il relax in casa. La felpa con maniche lunghe e bottoni frontali offre una vestibilità ampia e comoda che assicura libertà di movimento. Le maniche lunghe e il tessuto trapuntato conferiscono un carattere alla moda. I pantaloni lunghi hanno le caviglie elasticizzate per garantire comfort e una vestibilità aderente. In vita è presente un elastico e dei lacci per un'ottima regolazione della vestibilità. Realizzata in tessuto morbido e traspirante, la pigiama assicura comfort e permette alla pelle di respirare. Una scelta eccellente per gli uomini che apprezzano comfort e stile in ogni situazione!",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 208607",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 88 %, Poliestere 12 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1064836.jpg",
+      "https://matterhorn-moda.it/pics_source/1064837.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.301Z"
+  },
+  {
+    "id": "mh-209613",
+    "name": "completo model 209613 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 37,
+    "description": "Classico set di boxer maschili in tre colori universali: verde, blu scuro e beige. Realizzato in tessuto morbido e traspirante, garantisce comfort per l'intera giornata. Modello basic, di lunghezza media, con tessuto liscio. Taglio aderente e vita elastica garantiscono comfort e libertà di movimento. Confezionato in una elegante scatola, perfetto come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 209613",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1067546.jpg",
+      "https://matterhorn-moda.it/pics_source/1067547.jpg",
+      "https://matterhorn-moda.it/pics_source/1067548.jpg",
+      "https://matterhorn-moda.it/pics_source/1067549.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-140492",
+    "name": "Boxer model 140492 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 27,
+    "description": "Un'altra edizione di successo di piccole stampe ipnotizzanti in colori calmi. Vision sono boxer in un leggero e sorprendente motivo geometrico. Fascia elastica in vita a contrasto con logo del marchio. Tessuto morbido, gambe rifinite senza pressione.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 140492",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/867770.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-224349",
+    "name": "completo model 224349 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 33,
+    "description": "Un set di due paia di boxer maschili è la combinazione perfetta di classico e stile moderno. Nel set sono inclusi boxer con una stampa alla moda e un modello realizzato con un materiale liscio, perfetto per ogni occasione. Il taglio che enfatizza la silhouette garantisce un'ottima vestibilità e comfort per tutto il giorno. Le gambe corte conferiscono leggerezza al modello e garantiscono libertà di movimento, adattandosi sia alla vita di tutti i giorni che all'attività fisica. L'elastico in vita con stampa tiene saldamente i boxer al loro posto, aggiungendo allo stesso tempo un tocco sportivo e alla moda. È un set pratico e comodo per gli uomini che apprezzano il comfort e un aspetto attraente.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 224349",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1113849.jpg",
+      "https://matterhorn-moda.it/pics_source/1113850.jpg",
+      "https://matterhorn-moda.it/pics_source/1113851.jpg",
+      "https://matterhorn-moda.it/pics_source/1113852.jpg",
+      "https://matterhorn-moda.it/pics_source/1113853.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-162637",
+    "name": "Pigiama model 162637 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 37,
+    "originalPrice": 46,
+    "wholesalePrice": 22.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 37,
+    "description": "Pigiama estivo da uomo composto da una camicia a maniche corte e pantaloncini larghi. Camicia con scollo a V, pantaloncini con coulisse. Tutto imballato in una scatola. Composizione materiale: camicia 100% cotone, pantaloni 55% cotone, 45% poliestere . Dimensioni . Taglia M: petto 94-98 cm, fianchi 98-102 cm Taglia L: petto 98-102 cm, fianchi 102-106 cm Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 162637",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/928091.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-116221",
+    "name": "Canottiera model 116221 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 39,
+    "description": "Taglio sportivo e perfetto per le calde giornate estive. Il reggiseno è una maglietta con spalline più larghe, che avvolge il corpo in modo impressionante. Perfetto anche per la palestra. Funziona benissimo anche sotto una camicia. Liscio e disegnato con cotone arioso e confortevole elastan.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 116221",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/325049.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-219797",
+    "name": "Accappatoio da uomo model 219797 Henderson",
+    "subtitle": "Accappatoio da uomo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 40,
+    "originalPrice": 50,
+    "wholesalePrice": 24.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 28,
+    "description": "Elegante accappatoio da uomo dal taglio morbido e confortevole, realizzato in tessuto liscio che garantisce un uso piacevole e un aspetto classico. Modello con elegante colletto e tasche, che unisce funzionalità a uno stile senza tempo. L'accappatoio ha una lunghezza fino al ginocchio e una cintura in vita per un'ottima vestibilità. Confezionato in una bustina di plastica, rendendolo pratico e comodo da riporre o da regalare. Misure: Taglia M: Petto 94-98 cm, fianchi 98-102 cm Taglia L: Petto 98-102 cm, fianchi 102-106 cm Taglia XL: Petto 102-106 cm, fianchi 106-110 cm Taglia XXL: Petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: Petto 114-120 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 219797",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1098836.jpg",
+      "https://matterhorn-moda.it/pics_source/1098837.jpg",
+      "https://matterhorn-moda.it/pics_source/1098838.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-170147",
+    "name": "Pigiama model 170147 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 43,
+    "originalPrice": 54,
+    "wholesalePrice": 26.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 39,
+    "description": "Pigiama da uomo composto da felpa e pantaloni lunghi. Camicetta a maniche lunghe con scritta sul davanti. Pantaloni lunghi con coulisse da annodare. Pigiama dal taglio ampio e confortevole, realizzato in morbido tessuto. . Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: torace 102-106 cm, fianchi 106-110 cm Taglia XXL: torace 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 170147",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/950221.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-208608",
+    "name": "Pigiama model 208608 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 59,
+    "originalPrice": 74,
+    "wholesalePrice": 36.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 38,
+    "description": "Pigiama da uomo che unisce comfort ed eleganza, ideale sia per il riposo notturno che per il relax in casa. La felpa a maniche lunghe con tre bottoni davanti offre una vestibilità comoda e rilassata che garantisce piena libertà di movimento. Le maniche lunghe e il tessuto con motivo trapuntato conferiscono un carattere alla moda. I pantaloni lunghi hanno le caviglie elasticizzate per garantire comfort e una vestibilità aderente. In vita c'è un elastico e dei cordoni che consentono di regolare la pigiama in base alle esigenze individuali. Realizzata in tessuto morbido e traspirante, la pigiama assicura comfort e permette alla pelle di respirare. È la scelta perfetta per gli uomini che apprezzano comfort e stile in ogni situazione! Dimensioni: Taglia M: Torace 94-98 cm, fianchi 98-102 cm Taglia L: Torace 98-102 cm, fianchi 102-106 cm Taglia XL: Torace 102-106 cm, fianchi 106-110 cm Taglia XXL: Torace 106-110 cm, fianchi 110-114 cm Taglia XXXL: Torace 114-120 cm, fianchi 114-118 cm.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 208608",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1064838.jpg",
+      "https://matterhorn-moda.it/pics_source/1064839.jpg"
+    ],
+    "colors": [
+      {
+        "name": "beige",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-209614",
+    "name": "completo model 209614 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 13,
+    "description": "Classico set di boxer da uomo in colore nero. Realizzati in tessuto morbido e traspirante, garantiscono comfort per l'intera giornata. Modello basic con texture liscia del materiale. Taglio aderente e vita elastica garantiscono comfort e libertà di movimento. Confezionati in una scatola elegante, perfetti come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 209614",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1067550.jpg",
+      "https://matterhorn-moda.it/pics_source/1067551.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151472",
+    "name": "completo model 151472 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 27,
+    "description": "Set di 2 boxer da uomo in tinta unita con taglio sportivo e aderente. Grigio e nero inclusi. Fascia elastica stampata, fronte profilato, cotone di qualità morbido e molto confortevole.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151472",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897527.jpg",
+      "https://matterhorn-moda.it/pics_source/897528.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151700",
+    "name": "completo model 151700 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 17,
+    "description": "Interessanti boxer da uomo ricoperti da una stampa a lettere, in stile fumetto. Sicuramente piaceranno a tutti gli amanti delle composizioni alla moda e confortevoli. Gomma nel tunnel, maglia di cotone morbida ed elastica.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151700",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/898123.jpg",
+      "https://matterhorn-moda.it/pics_source/898124.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-224351",
+    "name": "Pigiama model 224351 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 41,
+    "originalPrice": 51,
+    "wholesalePrice": 25.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 13,
+    "description": "La comoda e elegante pigiama da uomo è la scelta ideale per un sonno confortevole e il relax nella comodità di casa. La maglietta con scollo rotondo e maniche corte garantisce libertà di movimento e un aspetto classico e senza tempo. La stampa sul davanti aggiunge carattere e un tocco moderno. Il set è realizzato in tessuto morbido e traspirante, che è piacevole sulla pelle e garantisce una corretta circolazione dell'aria per tutta la notte. Gli shorts stampati completano perfettamente la maglietta, creando un set armonioso. Il modello senza tasche garantisce leggerezza e comfort, mentre il largo elastico in vita garantisce una perfetta vestibilità e comfort senza stringere. Una proposta pratica per gli uomini che apprezzano il comfort e lo stile anche a casa. Misure: Taglia M: Torace 94-98 cm, fianchi 98-102 cm Taglia L: Torace 98-102 cm, fianchi 102-106 cm Taglia XL: Torace 102-106 cm, fianchi 106-110 cm Taglia XXL: Torace 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 224351",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1113859.jpg",
+      "https://matterhorn-moda.it/pics_source/1113860.jpg",
+      "https://matterhorn-moda.it/pics_source/1113861.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-162643",
+    "name": "completo model 162643 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 22,
+    "description": "I boxer da uomo Henderson sono realizzati in cotone ed elastan di alta qualità. Ampio elastico in vita con toppa con logo HENDERSON. Confezionato in una scatola.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 162643",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/928097.jpg",
+      "https://matterhorn-moda.it/pics_source/928098.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-170148",
+    "name": "Pigiama model 170148 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 45,
+    "originalPrice": 56,
+    "wholesalePrice": 27.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 16,
+    "description": "Pigiama da uomo composto da felpa e pantaloni lunghi. Camicetta a maniche lunghe con scritta sul davanti. Pantaloni lunghi con coulisse da annodare. Pigiama dal taglio ampio e confortevole, realizzato in morbido tessuto. . Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: torace 102-106 cm, fianchi 106-110 cm Taglia XXL: torace 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 170148",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/950222.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-208610",
+    "name": "Pigiama model 208610 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 41,
+    "originalPrice": 51,
+    "wholesalePrice": 25.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 10,
+    "description": "Pigiama da uomo che unisce comfort ed un look alla moda. La maglietta a maniche corte con scollo rotondo è decorata con una scritta alla moda che le conferisce un carattere elegante. Realizzata in tessuto morbido e traspirante, garantisce comfort per tutta la notte. I pantaloncini corti con stampa completano il look, offrendo leggerezza e comodità. I pantaloncini non hanno tasche, conferendo loro un aspetto minimalista. L'ampia fascia in vita assicura una perfetta vestibilità e comfort. La pigiama è confezionata in una scatola elegante, rendendola anche un ottimo regalo. Scelta ideale per gli uomini che apprezzano il comfort e il design moderno nel loro guardaroba notturno! Misure: Taglia M: Petto 94-98 cm, fianchi 98-102 cm Taglia L: Petto 98-102 cm, fianchi 102-106 cm Taglia XL: Petto 102-106 cm, fianchi 106-110 cm Taglia XXL: Petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: Petto 114-120 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 208610",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1064842.jpg",
+      "https://matterhorn-moda.it/pics_source/1064843.jpg"
+    ],
+    "colors": [
+      {
+        "name": "beige",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-209615",
+    "name": "completo model 209615 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 25,
+    "originalPrice": 31,
+    "wholesalePrice": 15.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 33,
+    "description": "Il classico set di boxer da uomo in tre colori universali: bianco, nero e grigio. Realizzati in tessuto morbido e traspirante, garantiscono comfort per tutto il giorno. Modello basic con una superficie liscia del materiale. Il taglio aderente e la vita elastica garantiscono comfort e libertà di movimento. Confezionati in un elegante scatola, perfetti come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 209615",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1067552.jpg",
+      "https://matterhorn-moda.it/pics_source/1067553.jpg",
+      "https://matterhorn-moda.it/pics_source/1067554.jpg",
+      "https://matterhorn-moda.it/pics_source/1067555.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-211992",
+    "name": "Accappatoio da uomo model 211992 Henderson",
+    "subtitle": "Accappatoio da uomo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 38,
+    "originalPrice": 48,
+    "wholesalePrice": 23.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 28,
+    "description": "Accappatoio da uomo comodo e pratico realizzato in cotone di alta qualità al 100%. Il tessuto morbido e traspirante garantisce comfort in qualsiasi momento della giornata. Il modello è dotato di cappuccio, pratiche tasche e cintura, che consente un perfetto adattamento alla silhouette. Una scelta eccellente per mattine tranquille e serate rilassanti. Taglia M: Petto 94-98 cm, fianchi 98-102 cm Taglia L: Petto 98-102 cm, fianchi 102-106 cm Taglia XL: Petto 102-106 cm, fianchi 106-110 cm Taglia XXL: Petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: Petto 114-120 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 211992",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1074999.jpg",
+      "https://matterhorn-moda.it/pics_source/1075000.jpg",
+      "https://matterhorn-moda.it/pics_source/1075001.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151167",
+    "name": "Pigiama model 151167 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 33,
+    "originalPrice": 41,
+    "wholesalePrice": 20.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 24,
+    "description": "Chiunque ami i pigiami a tinta unita in bei colori è venuto nel posto giusto. Duty, l'ultimo pigiama di Henderson, si basa su un taglio comodo e su colori ben scelti. La maglietta si distingue per un sottile collo a V e una piccola scritta sul petto. Viene fornito con pantaloni neri lisci fino alle ginocchia. Sciolto e comodo per l'estate! Dimensioni . Taglia M: petto 90-96 cm, vita 82-88 cm . Taglia L: petto 96-102 cm, vita 90-96 cm Taglia XL: petto 102-108 cm, vita 98-104 cm Taglia XXL: petto 108-114 cm, vita 106-110 cm Taglia XXXL: petto 114-120 cm, vita 112-116 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 151167",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/896685.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151473",
+    "name": "completo model 151473 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 26,
+    "description": "Loyd - 2pack di slip da uomo Henderson combina colori interessanti con un design interessante. Cosa cattura l'attenzione? Vita elastica stampata, cuciture a contrasto espressive sul davanti e taglio sportivo e aderente.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151473",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897529.jpg",
+      "https://matterhorn-moda.it/pics_source/897530.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-170149",
+    "name": "Accappatoio da uomo model 170149 Henderson",
+    "subtitle": "Accappatoio da uomo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 48,
+    "originalPrice": 60,
+    "wholesalePrice": 29.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 30,
+    "description": "Accappatoio da uomo con cintura da annodare. Accappatoio dal taglio ampio e confortevole, realizzato in morbido tessuto. Vestaglia con tasche portaoggetti. Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: torace 102-106 cm, fianchi 106-110 cm Taglia XXL: torace 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 170149",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/950223.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-208611",
+    "name": "Pigiama model 208611 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 35,
+    "originalPrice": 44,
+    "wholesalePrice": 21.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 10,
+    "description": "Pigiama da uomo che unisce comfort e design alla moda, perfetta per le notti calde e il relax in casa. La maglietta a maniche corte ha un collo a mezza luna ed è decorata con una stampa delicata che le dà carattere. Realizzata in tessuto morbido e traspirante, garantisce comfort e piacere nell'indossarla. I pantaloncini corti completano il set, con un taglio comodo e largo che offre piena libertà di movimento. La cintura elastica in vita garantisce una vestibilità perfetta e il massimo comfort. La pigiama è confezionata in una scatola elegante ed è anche un'ottima idea regalo. È la scelta perfetta per gli uomini che cercano comfort e stile nel loro guardaroba notturno! Dimensioni: Taglia M: Petto 94-98 cm, fianchi 98-102 cm Taglia L: Petto 98-102 cm, fianchi 102-106 cm Taglia XL: Petto 102-106 cm, fianchi 106-110 cm Taglia XXL: Petto 106-110 cm, fianchi 110-114 cm.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 208611",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1064844.jpg",
+      "https://matterhorn-moda.it/pics_source/1064845.jpg"
+    ],
+    "colors": [
+      {
+        "name": "beige",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-209616",
+    "name": "completo model 209616 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 14,
+    "description": "Il classico set di boxer da uomo in tre colori universali: blu, blu scuro e grigio. Realizzati in tessuto morbido e traspirante, garantiscono comfort per tutto il giorno. Modello basic con una superficie liscia. Il taglio aderente e la vita elastica garantiscono comfort e libertà di movimento. Confezionato in una scatola elegante, ideale come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 209616",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1067556.jpg",
+      "https://matterhorn-moda.it/pics_source/1067557.jpg",
+      "https://matterhorn-moda.it/pics_source/1067558.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-211994",
+    "name": "Canottiera model 211994 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 27,
+    "originalPrice": 34,
+    "wholesalePrice": 16.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 14,
+    "description": "Un set di due canottiere classiche da uomo senza maniche. Modello con scollo rotondo, perfetto per l'uso quotidiano, sia come strato interno sotto i vestiti, sia da indossare da solo nei giorni più caldi. Il taglio universale garantisce comfort e libertà di movimento.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 211994",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1075005.jpg",
+      "https://matterhorn-moda.it/pics_source/1075006.jpg",
+      "https://matterhorn-moda.it/pics_source/1075007.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151168",
+    "name": "Pigiama model 151168 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 38,
+    "originalPrice": 48,
+    "wholesalePrice": 23.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 13,
+    "description": "Pigiama da uomo rosso e blu navy con camicia con collo a bottone leggermente aderente e pantaloni al ginocchio molto alla moda. I pantaloni sono semplici con un elastico in vita visibile e stampato. Se anche voi puntate su un look interessante e alla moda e allo stesso tempo vi preoccupate del comfort necessario, questa è la proposta perfetta per voi. . Taglia M: petto 90-96 cm, vita 82-88 cm . Taglia L: petto 96-102 cm, vita 90-96 cm Taglia XL: petto 102-108 cm, vita 98-104 cm Taglia XXL: petto 108-114 cm, vita 106-110 cm Taglia XXXL: petto 114-120 cm, vita 112-116 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 151168",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/896686.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151501",
+    "name": "Pigiama model 151501 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 18,
+    "description": "Pigiama da uomo a due pezzi, molto comodo, della nuova collezione della marca Henderson, che sta rapidamente guadagnando molti seguaci. Il set comprende una comoda maglietta in un colore primaverile con una stampa al centro e pantaloncini in un impressionante motivo a scacchi alla moda. Una proposta degna di distinzione. Dimensioni . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: petto 98-102 cm, fianchi 102-106 cm Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 151501",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897578.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-152957",
+    "name": "Pantaloncini da mare model 152957 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 22,
+    "description": "Comodi pantaloncini da bagno da uomo dell'ultima collezione di Henderson. Colore alla moda, realizzato in tessuto ad asciugatura rapida ricoperto da un raffinato motivo navy. Ottimo sia per gli sport da spiaggia che per le passeggiate casuali, molto comodo. Fodera interna. Due tasche sui lati e una terza sul retro con un passante per la cintura.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 152957",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/901311.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-220968",
+    "name": "Boxer model 220968 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 27,
+    "description": "I boxer maschili di tipo basic sono la scelta ideale per gli uomini che apprezzano il comfort e la semplicità. Realizzati in morbido tessuto traspirante, garantiscono un elevato comfort durante tutto il giorno. Il materiale liscio si adatta piacevolmente al corpo, mentre il taglio largo assicura piena libertà di movimento. L'elastico in vita si adatta perfettamente alla silhouette, senza stringere né limitare i movimenti. Il design classico e minimalista fa sì che i boxer siano perfetti come parte dell'abbigliamento intimo quotidiano, funzionali, comodi e sempre alla moda.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 220968",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1102429.jpg",
+      "https://matterhorn-moda.it/pics_source/1102430.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-209617",
+    "name": "completo model 209617 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 14,
+    "description": "Classiche boxer da uomo in confezione da due, di colore blu scuro, realizzate in tessuto morbido e traspirante per il massimo comfort. Il materiale liscio e il taglio aderente assicurano comfort per tutta la giornata. Modello basic, dotato di una larga fascia in vita con stampa che garantisce una perfetta vestibilità. Confezionate in una scatola elegante, ottima scelta per tutti i giorni o come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 209617",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 25 %, Spandex 5 %, Viscosa 70 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1067559.jpg",
+      "https://matterhorn-moda.it/pics_source/1067560.jpg",
+      "https://matterhorn-moda.it/pics_source/1067561.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-211995",
+    "name": "Pantaloncini da mare model 211995 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 37,
+    "description": "Costumi da bagno moderni da uomo realizzati in tessuto liscio con effetto cambiamento del motivo, un accento originale che attira l'attenzione. Il modello è dotato di tasche laterali e pratiche aperture sui lati che aumentano la libertà di movimento. In vita c'è un'ampia fascia elastica con cordoncino aggiuntivo per una migliore vestibilità. Prodotto confezionato in una borsa di plastica, perfetto per i viaggi o come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211995",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1075008.jpg",
+      "https://matterhorn-moda.it/pics_source/1075009.jpg",
+      "https://matterhorn-moda.it/pics_source/1075010.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151169",
+    "name": "Pigiama model 151169 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 40,
+    "originalPrice": 50,
+    "wholesalePrice": 24.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 31,
+    "description": "Un mix di colori basato sui toni del blu è una proposta universale, in cui praticamente ogni uomo si sentirà bene. Drake - l'ultimo pigiama da uomo di Henderson si basa sul comfort e sui colori provati. Top in una bella tonalità di blu, a righe, con maniche corte. Pantaloncini fino a circa il ginocchio. Dimensioni . Taglia M: petto 90-96 cm, vita 82-88 cm . Taglia L: petto 96-102 cm, vita 90-96 cm Taglia XL: petto 102-108 cm, vita 98-104 cm Taglia XXL: petto 108-114 cm, vita 106-110 cm Taglia XXXL: petto 114-120 cm, vita 112-116 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 151169",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/896687.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-151502",
+    "name": "completo model 151502 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 34,
+    "description": "Un intrigante set di slip da uomo nei colori rosa e blu navy. Optate per l'individualità! Stile sportivo, grande qualità, elastico stampato in vita. È questo! Il set include entrambi i pezzi mostrati nella foto.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151502",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897579.jpg",
+      "https://matterhorn-moda.it/pics_source/897580.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-152958",
+    "name": "Pantaloncini da mare model 152958 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 28,
+    "description": "Comodi pantaloncini da bagno da uomo dell'ultima collezione di Henderson. Colore alla moda, realizzato in tessuto ad asciugatura rapida ricoperto da un raffinato motivo navy. Ottimo sia per gli sport da spiaggia che per le passeggiate casuali, molto comodo. Fodera interna. Due tasche sui lati e una terza sul retro con un passante per la cintura.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 152958",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/901312.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.302Z"
+  },
+  {
+    "id": "mh-162743",
+    "name": "Pigiama model 162743 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 37,
+    "originalPrice": 46,
+    "wholesalePrice": 22.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 38,
+    "description": "Pigiama estivo da uomo composto da maglietta e pantaloncini. T-shirt in morbida maglia di cotone con maniche corte. Pantaloncini in delicato tessuto a scacchi, con coulisse in vita. Composizione: maglietta 98% cotone, 2% poliestere, pantaloncini 100% cotone Dimensioni . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: petto 98-102 cm, fianchi 102-106 cm Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 162743",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/928403.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-220969",
+    "name": "Boxer model 220969 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 11,
+    "description": "I boxer maschili di tipo basic sono la scelta ideale per gli uomini che apprezzano il comfort e la semplicità nella vita di tutti i giorni. Realizzati in morbido tessuto traspirante, garantiscono un elevato comfort durante tutto il giorno. Il materiale liscio si adatta piacevolmente al corpo, mentre il taglio largo assicura piena libertà di movimento. L'elastico in vita si adatta perfettamente alla silhouette senza stringere né limitare i movimenti. Il design classico e minimalista rende i boxer perfetti come capo intimo quotidiano, funzionale, comodo e sempre alla moda.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 220969",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1102431.jpg",
+      "https://matterhorn-moda.it/pics_source/1102432.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-18876",
+    "name": "T-shirt model 18876 Henderson",
+    "subtitle": "T-shirt • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 26,
+    "description": "Una maglietta da uomo versatile che dovresti avere nel tuo guardaroba. Il cotone, con un'aggiunta di elastan, va con quasi tutto. Se siete alla ricerca di un taglio perfetto e di comfort... ecco qualcosa per voi! Arioso e completamente semplice. La manica corta è un altro vantaggio.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 18876",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/325080.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-209618",
+    "name": "completo model 209618 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 27,
+    "description": "Classici boxer da uomo in confezione da due, di colore nero, realizzati in tessuto morbido e traspirante per un comfort ottimale. Il materiale liscio e il taglio aderente garantiscono il massimo comfort per tutta la giornata. Modello basic, dotato di ampia fascia in vita con stampa, che assicura una vestibilità perfetta. Confezionati in una elegante scatola, ottima scelta per tutti i giorni o come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 209618",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 25 %, Spandex 5 %, Viscosa 70 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1067562.jpg",
+      "https://matterhorn-moda.it/pics_source/1067563.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-211996",
+    "name": "Pantaloncini da mare model 211996 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 37,
+    "description": "Stilosi pantaloncini da bagno da uomo realizzati in un materiale leggero con una stampa accattivante che mette in risalto l'abbronzatura. Il modello ha tasche laterali e pratiche aperture sui lati, garantendo una maggiore libertà di movimento. All'interno, una comoda fodera, e in vita cordini per un'ottima vestibilità. Il tessuto è ad asciugatura rapida, il che rende i pantaloncini da bagno ideali sia per la spiaggia che per la piscina. Confezionati in una borsa di plastica, pronti per ogni vacanza.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211996",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1075011.jpg",
+      "https://matterhorn-moda.it/pics_source/1075012.jpg",
+      "https://matterhorn-moda.it/pics_source/1075013.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-151505",
+    "name": "completo model 151505 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 12,
+    "description": "Voglia di un design interessante? Ozzy è un 2pack di boxer da uomo nei colori grafite e arancione. Uno a fantasia, l'altro a tinta unita, entrambi rifiniti con un elastico decorativo in vita dello stesso colore della biancheria.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151505",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897585.jpg",
+      "https://matterhorn-moda.it/pics_source/897586.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-152959",
+    "name": "Pantaloncini da mare model 152959 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 11,
+    "description": "Pantaloncini da bagno molto comodi, larghi e foderati dell'ultima collezione Henderson, edizione Estate 2021. Spiccano in un grande colore blu (in una bella tonalità) coperto da un minuscolo motivo. Vestibilità comoda: fascia in vita comoda, elastica e morbida con coulisse aggiuntiva per regolare la circonferenza. Tessuto ad asciugatura rapida. Tasca posteriore con passante per cintura.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 152959",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/901313.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-123251",
+    "name": "Accappatoio da uomo model 123251 Henderson",
+    "subtitle": "Accappatoio da uomo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 53,
+    "originalPrice": 66,
+    "wholesalePrice": 32.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 32,
+    "description": "Accappatoio esclusivo con collo a scialle, di Henderson. Estremamente morbido e veramente maschile. Blu marino scuro, decorato con bordino rosso. 'H' ricamata sul petto. Fianchi con tasche, cravatta in vita. Qualità molto buona. Perfetto anche come regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 123251",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/820978.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-170683",
+    "name": "Pigiama model 170683 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 46,
+    "originalPrice": 58,
+    "wholesalePrice": 28.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 16,
+    "description": "Il pigiama da uomo HENDERSON BADGE è composto da due pezzi: un pantalone lungo liscio e una T-shirt liscia a maniche lunghe con scollo rotondo. Sul petto un'elegante goffratura con il logo del marchio. I pantaloni a gamba dritta hanno polsini a coste alle caviglie. L'ampia fascia elastica in vita e l'ulteriore legatura nel colore del pigiama danno la possibilità di regolare la circonferenza. Il set da notte è realizzato in cotone di alta qualità per garantire il massimo comfort durante il sonno. Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: torace 102-106 cm, fianchi 106-110 cm Taglia XXL: torace 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 170683",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/951803.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-220970",
+    "name": "Boxer model 220970 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 14,
+    "originalPrice": 18,
+    "wholesalePrice": 8.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 20,
+    "description": "I boxer da uomo di tipo basic sono la scelta ideale per gli uomini che apprezzano comfort e semplicità. Realizzati in tessuto morbido e traspirante, garantiscono un alto comfort durante tutto il giorno. Il materiale liscio si adatta piacevolmente al corpo, mentre il taglio largo assicura piena libertà di movimento. L'elastico in vita si adatta perfettamente alla silhouette, senza stringere né limitare i movimenti. Il design classico e minimalista fa sì che i boxer si adattino perfettamente come capo intimo quotidiano, funzionale, comodo e sempre alla moda.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 220970",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1102433.jpg",
+      "https://matterhorn-moda.it/pics_source/1102434.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-133965",
+    "name": "completo model 133965 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "description": "Slip da uomo della linea Classic di Henderson, e subito in confezione da 3. Il ben noto e collaudato taglio con linee anatomiche, elastico nascosto nel tunnel, logo del marchio in alto e 100% cotone. È questo!",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 133965",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/850628.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-151506",
+    "name": "completo model 151506 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 22,
+    "description": "Grafico o semplice? Optate per un 2Pack di boxer da uomo 2 in 1. Uno a fantasia, l'altro classico, senza fantasia, ognuno con una vistosa fascia elastica in vita, si adatterà perfettamente ai vostri outfit primaverili.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151506",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897587.jpg",
+      "https://matterhorn-moda.it/pics_source/897588.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-183832",
+    "name": "Accappatoio da uomo model 183832 Henderson",
+    "subtitle": "Accappatoio da uomo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 41,
+    "originalPrice": 51,
+    "wholesalePrice": 25.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 38,
+    "description": "Accappatoio classico a quadri da uomo, senza cappuccio e con collo a scialle, decorato con un elegante e sottile ricamo sul petto. Accappatoio in maglia morbida, caldo, leggero e confortevole. Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm . Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 183832",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/990404.jpg",
+      "https://matterhorn-moda.it/pics_source/990405.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-116327",
+    "name": "Canottiera model 116327 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "description": "Taglio sportivo e perfetto per le calde giornate estive. Il reggiseno è una maglietta con spalline più larghe, che avvolge il corpo in modo impressionante. Perfetto anche per la palestra. Funziona benissimo anche sotto una camicia. Liscio e disegnato con cotone arioso e confortevole elastan.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 116327",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/325099.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-163582",
+    "name": "Pigiama model 163582 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 26,
+    "description": "Pigiama da uomo in cotone di alta qualità. T-shirt a maniche corte con stampa decorativa. Viene fornito con pantaloncini larghi. Dimensioni: Dimensioni: . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: petto 98-102 cm, fianchi 102-106 cm . Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 163582",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/930746.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-118360",
+    "name": "T-shirt model 118360 Henderson",
+    "subtitle": "T-shirt • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 14,
+    "originalPrice": 18,
+    "wholesalePrice": 8.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 17,
+    "description": "T-shirt da uomo liscia e di ottima qualità in cotone (100%). Arioso, morbido e pratico. Qualunque sia la stagione.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 118360",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/435046.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-220973",
+    "name": "completo model 220973 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 38,
+    "originalPrice": 48,
+    "wholesalePrice": 23.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 18,
+    "description": "Canottiera da uomo di base in pratico set da 2 pezzi. Modello classico a manica lunga e scollo rotondo, realizzato in tessuto liscio e morbido che si adatta perfettamente al corpo e garantisce un elevato comfort. Il taglio universale si adatta sia come biancheria intima sotto l'abbigliamento che come elemento indipendente dell'abbigliamento quotidiano. Il tutto confezionato in una scatola elegante, scelta ideale per gli uomini che apprezzano la semplicità, il comfort e la qualità.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 220973",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1102439.jpg",
+      "https://matterhorn-moda.it/pics_source/1102440.jpg",
+      "https://matterhorn-moda.it/pics_source/1102441.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-133967",
+    "name": "completo model 133967 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 32,
+    "description": "Slip da uomo della linea Classic di Henderson, e subito in confezione da 3. Il ben noto e collaudato taglio con linee anatomiche, elastico nascosto nel tunnel, logo del marchio in alto e 100% cotone. È questo!",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 133967",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/850630.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-211648",
+    "name": "Pigiama model 211648 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 40,
+    "originalPrice": 50,
+    "wholesalePrice": 24.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 25,
+    "description": "Stilosa e comoda pigiama da uomo creata pensando al comfort e all'aspetto casual. La parte superiore della pigiama è una maglietta ampia con scollo rotondo e una scritta alla moda, che si presenta bene sia durante il sonno che nelle pigre mattine in casa. Completano il set dei pantaloncini corti a quadri, decorati con una stampa e dotati di cordini in vita e un elastico in vita, che garantisce una perfetta vestibilità e comfort. La mancanza di tasche rende il taglio leggero e non limita i movimenti. Il set ha un taglio largo e confortevole, ideale sia per l'estate che come abbigliamento per la casa. Il tutto confezionato in un elegante scatola, un ottima idea regalo!",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 211648",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1073982.jpg",
+      "https://matterhorn-moda.it/pics_source/1073983.jpg",
+      "https://matterhorn-moda.it/pics_source/1073984.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.303Z"
+  },
+  {
+    "id": "mh-199565",
+    "name": "completo model 199565 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 21,
+    "originalPrice": 26,
+    "wholesalePrice": 12.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 16,
+    "description": "\"Sono dei boxer che puoi indossare sotto qualsiasi pantalone o pantaloncino, anche quelli aderenti. Questo modello di biancheria intima, grazie alla lavorazione in tessuto di cotone con aggiunta di elastan, aderisce perfettamente alla silhouette. Non limita i movimenti e si adatta bene alle attività quotidiane, anche durante lo sport. La comodità è garantita dalla larga fascia elastica non troppo stretta in vita.\"",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 199565",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1037317.jpg",
+      "https://matterhorn-moda.it/pics_source/1037318.jpg",
+      "https://matterhorn-moda.it/pics_source/1037319.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-175637",
+    "name": "completo model 175637 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 21,
+    "originalPrice": 26,
+    "wholesalePrice": 12.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 33,
+    "description": "completo model 175637 Henderson della linea ufficiale Henderson. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 175637",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/966186.jpg",
+      "https://matterhorn-moda.it/pics_source/966187.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-151507",
+    "name": "completo model 151507 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 38,
+    "description": "Diverso dal solito 2pack di boxer da uomo in rosa e blu navy. Siete alla ricerca di combinazioni, colori e modelli alla moda e interessanti? Questa linea di boxer sarà perfetta per voi. Elastico in vita con logo del produttore. Maglieria di cotone di alta qualità.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151507",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897589.jpg",
+      "https://matterhorn-moda.it/pics_source/897590.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-183838",
+    "name": "Pigiama model 183838 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 38,
+    "originalPrice": 48,
+    "wholesalePrice": 23.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 37,
+    "description": "Pigiama da uomo composto da T-shirt e pantaloni. T-shirt a maniche lunghe con scollo a metà. Pantaloni lunghi con elastico e laccetto in vita. Dimensioni: . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm . Taglia XL: torace 102-106 cm, fianchi 106-110 cm . Taglia XXL: petto 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 183838",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/990416.jpg",
+      "https://matterhorn-moda.it/pics_source/990417.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-118361",
+    "name": "T-shirt model 118361 Henderson",
+    "subtitle": "T-shirt • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 14,
+    "originalPrice": 18,
+    "wholesalePrice": 8.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 18,
+    "description": "T-shirt da uomo liscia e di ottima qualità in cotone (100%). Arioso, morbido e pratico. Qualunque sia la stagione.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 118361",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/329461.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-128905",
+    "name": "Pantaloncini da mare model 128905 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 25,
+    "description": "Costume da bagno sportivo da uomo con scritta sull'elastico in vita. Tessuto elastico, liscio sul fondo. Taglio sportivo e aderente. Confortevole fodera in rete all'interno.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 128905",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/836033.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-220974",
+    "name": "completo model 220974 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 39,
+    "description": "Canottiera maschile basic in pratico set da 2 pezzi. Modello classico con maniche lunghe e scollo rotondo, realizzato in tessuto liscio e morbido che si adatta perfettamente al corpo e garantisce un elevato comfort. Il taglio universale si adatta sia come biancheria intima sotto i vestiti, sia come elemento autonomo dell'abbigliamento quotidiano. Il tutto confezionato in un elegante scatola, scelta ideale per gli uomini che apprezzano la semplicità, il comfort e la qualità.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 220974",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1102442.jpg",
+      "https://matterhorn-moda.it/pics_source/1102443.jpg",
+      "https://matterhorn-moda.it/pics_source/1102444.jpg",
+      "https://matterhorn-moda.it/pics_source/1102445.jpg",
+      "https://matterhorn-moda.it/pics_source/1102446.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-211651",
+    "name": "Pantaloncini da mare model 211651 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 24,
+    "description": "Moderno costume da bagno da uomo dal taglio corto, ideale per la spiaggia, la piscina o le vacanze. Realizzato in materiale ad asciugatura rapida con stampa, che unisce funzionalità a un look alla moda. Il modello ha un elastico in vita e un cordino aggiuntivo che consente una perfetta vestibilità. La mancanza di tasche e la leggera fodera garantiscono comfort e comodità anche durante l'attività fisica intensa. I costumi da bagno sono confezionati in una pratica borsa, che consente di portarli facilmente con sé in ogni avventura acquatica.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211651",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1073991.jpg",
+      "https://matterhorn-moda.it/pics_source/1073992.jpg",
+      "https://matterhorn-moda.it/pics_source/1073993.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXXXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-199574",
+    "name": "completo model 199574 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 28,
+    "description": "Ti piace la biancheria intima con un taglio classico come gli slip? Ti piaceranno le mutande Jarl che potrai acquistare in un comodo pacchetto da due. Si tratta di un modello semplice monocolore con una larga fascia elastica in contrasto in vita. Grazie alla piacevole maglia, queste mutande maschili garantiscono comfort per tutto il giorno e si adattano perfettamente al corpo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 199574",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1037339.jpg",
+      "https://matterhorn-moda.it/pics_source/1037340.jpg",
+      "https://matterhorn-moda.it/pics_source/1037341.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-175638",
+    "name": "completo model 175638 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 33,
+    "description": "completo model 175638 Henderson della linea ufficiale Henderson. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 175638",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/966226.jpg",
+      "https://matterhorn-moda.it/pics_source/966227.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-151300",
+    "name": "Pigiama model 151300 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 33,
+    "originalPrice": 41,
+    "wholesalePrice": 20.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 23,
+    "description": "Pigiama da uomo blu navy e rosso della nuova collezione di Henderson. Camicetta con stampa Henderson Core gommata, con effetto 3D (stampa che si sente al tatto), elegante e decisamente di carattere, può essere usata anche come homewear. Pantaloni con elastico in vita e lacci. Dimensioni . Taglia M: petto 90-96 cm, vita 82-88 cm Taglia L: petto 96-102 cm, vita 90-96 cm Taglia XL: petto 102-108 cm, vita 98-104 cm Taglia XXL: petto 108-114 cm, vita 106-110 cm Taglia XXXL: petto 114-120 cm, vita 112-116 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 151300",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/896938.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-151508",
+    "name": "completo model 151508 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 34,
+    "description": "Cerchi qualcosa di interessante anche tra la biancheria intima da uomo? Lucky è la proposta perfetta. Rosso scuro, quasi rosa e un colore di base di blu navy, scatenatevi! Che non sia noioso! I boxer sono caratterizzati da una parte anteriore sagomata, un taglio sportivo e un elastico stampato in vita.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151508",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897591.jpg",
+      "https://matterhorn-moda.it/pics_source/897592.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-153227",
+    "name": "Boxer model 153227 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 39,
+    "description": "Comodi boxer da uomo della linea Premium di Henderson, che piacerà sicuramente agli amanti dei colori calmi e delle stampe delicate. Si abbinano perfettamente al tuo vestito di tutti i giorni. Elastico nero con il logo del produttore in vita.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 153227",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 25 %, Spandex 5 %, Viscosa 70 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/902056.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-183847",
+    "name": "Pigiama model 183847 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 43,
+    "originalPrice": 54,
+    "wholesalePrice": 26.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "description": "Pigiama da uomo composto da T-shirt e pantaloni. T-shirt a maniche lunghe con scollo a metà. Pantaloni lunghi con elastico in vita. Dimensioni: . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm . Taglia XL: torace 102-106 cm, fianchi 106-110 cm . Taglia XXL: torace 106-110 cm, fianchi 110-114 cm .",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 183847",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/990434.jpg",
+      "https://matterhorn-moda.it/pics_source/990435.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-118366",
+    "name": "Canottiera model 118366 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 18,
+    "description": "Taglio sportivo e perfetto per le calde giornate estive. Il reggiseno è una maglietta con spalline più larghe, che avvolge il corpo in modo impressionante. Perfetto anche per la palestra. Funziona benissimo anche sotto una camicia. Liscio e disegnato con cotone arioso e confortevole elastan.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 118366",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/329576.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-226600",
+    "name": "completo model 226600 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "description": "Boxer maschili in un pratico pacchetto da 2 in classico colore nero sono una proposta universale dalla linea basic, ideale per un uso quotidiano. Il design minimalista rende il modello perfetto per ogni situazione, offrendo uno stile senza tempo e comfort. I boxer hanno una gamba più lunga che garantisce una migliore vestibilità e comfort durante il movimento. L'ampia fascia in vita con stampa non solo tiene bene la biancheria intima, ma le conferisce anche un carattere moderno. Il tutto è stato progettato pensando al comfort nell'uso durante tutta la giornata. Il set è confezionato in una scatola estetica, rendendolo perfetto anche come pratico regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 226600",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1121100.jpg",
+      "https://matterhorn-moda.it/pics_source/1121101.jpg",
+      "https://matterhorn-moda.it/pics_source/1121102.jpg",
+      "https://matterhorn-moda.it/pics_source/1121103.jpg",
+      "https://matterhorn-moda.it/pics_source/1121104.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXXXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-127626",
+    "name": "Boxer model 127626 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 14,
+    "originalPrice": 18,
+    "wholesalePrice": 8.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 26,
+    "description": "Boxer Burito Red line, biancheria intima da uomo con una vestibilità perfetta, comoda e facile da muovere. Le gambe corte aggiungono un look sportivo. Progettato in cotone combinato con lycra.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 127626",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/831995.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.304Z"
+  },
+  {
+    "id": "mh-172714",
+    "name": "Pigiama model 172714 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 45,
+    "originalPrice": 56,
+    "wholesalePrice": 27.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 23,
+    "description": "Il pigiama da uomo HENDERSON TOWN è un set da notte a due pezzi composto da una camicetta a maniche lunghe e da un pantalone lungo. La T-shirt è caratterizzata da uno scollo a V e da leggere impunture sulle spalle. La grande scritta stampata all'altezza del petto attira l'attenzione. I pantaloni in flanella a quadri hanno gambe dritte e larghe e una vita elasticizzata con coulisse per regolare l'orlo. Il set è realizzato in cotone di alta qualità per un sonno confortevole. Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: torace 102-106 cm, fianchi 106-110 cm Taglia XXL: torace 106-110 cm, fianchi 110-114 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 172714",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/957552.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-211652",
+    "name": "Pantaloncini da mare model 211652 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 20,
+    "description": "Costumi da bagno da uomo moderni con taglio corto, ideali per la spiaggia, la piscina o le vacanze. Realizzati in materiale ad asciugatura rapida con stampa che unisce funzionalità e un look alla moda. Il modello ha un elastico in vita e un laccio aggiuntivo per un'ottima vestibilità. La mancanza di tasche e la leggera fodera garantiscono comfort e comodità anche durante i movimenti intensi. I costumi da bagno sono confezionati in una comoda sacca, ideale per portarli con sé in ogni avventura acquatica.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211652",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1073994.jpg",
+      "https://matterhorn-moda.it/pics_source/1073995.jpg",
+      "https://matterhorn-moda.it/pics_source/1073996.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXXXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-175639",
+    "name": "completo model 175639 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 35,
+    "description": "completo model 175639 Henderson della linea ufficiale Henderson. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 175639",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/966188.jpg",
+      "https://matterhorn-moda.it/pics_source/966189.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-151509",
+    "name": "completo model 151509 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 33,
+    "description": "Boxer da uomo lisci con gambe leggermente più lunghe del normale. Stile sportivo, con fronte sagomato, cintura elastica stampata alla moda, in maglia di cotone di alta qualità. Confezione da 2 in grigio e blu navy.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151509",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897593.jpg",
+      "https://matterhorn-moda.it/pics_source/897594.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-153228",
+    "name": "Boxer model 153228 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 35,
+    "description": "Comodi boxer da uomo della linea Premium di Henderson, che piacerà sicuramente agli amanti dei colori calmi e delle stampe delicate. Si abbinano perfettamente al tuo vestito di tutti i giorni. Elastico nero con il logo del produttore in vita.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 153228",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 25 %, Spandex 5 %, Viscosa 70 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/902057.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 8,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-183848",
+    "name": "Pigiama model 183848 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 45,
+    "originalPrice": 56,
+    "wholesalePrice": 27.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 29,
+    "description": "Pigiama da uomo composto da T-shirt e pantaloni. T-shirt a maniche lunghe con scollo a metà. Pantaloni lunghi con elastico in vita. Dimensioni: . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm . Taglia XL: torace 102-106 cm, fianchi 106-110 cm . Taglia XXL: torace 106-110 cm, fianchi 110-114 cm .",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 183848",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/990436.jpg",
+      "https://matterhorn-moda.it/pics_source/990437.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-118387",
+    "name": "Boxer model 118387 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 22,
+    "description": "Boxer da uomo lisci con una scritta distintiva in alto - alla moda e con carattere, dall'ultima collezione di Henderson. Gambe leggermente più lunghe, taglio vicino al corpo, pannello profilato per le zone intime.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 118387",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/329581.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "bottom",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-226601",
+    "name": "completo model 226601 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 29,
+    "description": "Boxer maschili in un pratico pacchetto da 3 sono una scelta eccellente per coloro che apprezzano il comfort e la funzionalità nella vita di tutti i giorni. Il modello della linea basic si distingue per il design semplice e universale, che si adatta a ogni guardaroba. Realizzati in tessuto morbido e traspirante, i boxer assicurano comfort durante tutto il giorno, indipendentemente dall'attività svolta. Il materiale elastico si adatta bene alla silhouette, non limita i movimenti e garantisce libertà. L'ampia fascia in vita con stampa assicura il mantenimento stabile dell'intimo, conferendogli un carattere moderno. Il tutto è confezionato in una scatola elegante, rendendo il set anche un ottimo regalo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 226601",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1121105.jpg",
+      "https://matterhorn-moda.it/pics_source/1121106.jpg",
+      "https://matterhorn-moda.it/pics_source/1121107.jpg",
+      "https://matterhorn-moda.it/pics_source/1121108.jpg",
+      "https://matterhorn-moda.it/pics_source/1121109.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-171358",
+    "name": "completo model 171358 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 30,
+    "description": "Comodi slip HENDERSON BOOST, caratterizzati da un'interessante combinazione di colori e da un motivo non convenzionale. La coppia è composta da slip grigi a tinta unita e slip blu con stampa moto all-over. Presentano un'ampia fascia elastica in vita con il logo del marchio.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 171358",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/953493.jpg",
+      "https://matterhorn-moda.it/pics_source/953497.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-172715",
+    "name": "Pigiama model 172715 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 43,
+    "originalPrice": 54,
+    "wholesalePrice": 26.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 26,
+    "description": "Il pigiama da uomo HENDERSON TOWN è un set da notte a due pezzi composto da una camicetta a maniche lunghe e da un pantalone lungo. La T-shirt è caratterizzata da uno scollo a V e da leggere impunture sulle spalle. La grande scritta stampata all'altezza del petto attira l'attenzione. I pantaloni in flanella a quadri hanno gambe dritte e larghe e una vita elasticizzata con coulisse per regolare l'orlo. Il set è realizzato in cotone di alta qualità per un sonno confortevole. Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: torace 102-106 cm, fianchi 106-110 cm Taglia XXL: torace 106-110 cm, fianchi 110-114 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 172715",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/957553.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-211653",
+    "name": "Pantaloncini da mare model 211653 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 36,
+    "description": "Costumi da bagno maschili funzionali e alla moda con una gamba più lunga, ideati per le attività in acqua e in spiaggia. Realizzati in tessuto liscio e ad asciugatura rapida, che garantisce comfort e libertà di movimento. Senza tasche, enfatizzando il design minimalista e aumentando il comfort durante il nuoto. La coulisse in vita consente un'ottima vestibilità. I costumi da bagno sono confezionati in una pratica borsa, ideale per viaggi o palestra. Il taglio classico e la forma semplice li rendono una scelta affidabile per ogni stagione.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211653",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1073997.jpg",
+      "https://matterhorn-moda.it/pics_source/1073998.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-191680",
+    "name": "Cappello model 191680 4F",
+    "subtitle": "Cappello • Brand 4F",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "",
+    "price": 25,
+    "originalPrice": 31,
+    "wholesalePrice": 15.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 12,
+    "description": "Berretto monostrato da uomo del marchio 4F, con polsino risvoltato. Perfetto per le giornate fredde!",
+    "details": [
+      "Brand: 4F",
+      "Categoria fornitore: /PER LUI/Moda da uomo //",
+      "Codice articolo: 191680",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Acrilico 50 %, Poliestere 50 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (4F)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1013801.jpg",
+      "https://matterhorn-moda.it/pics_source/1013802.jpg"
+    ],
+    "colors": [
+      {
+        "name": "marrone",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "4F",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-160199",
+    "name": "Boxer model 160199 Cornette",
+    "subtitle": "Boxer • Brand Cornette",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 17,
+    "description": "Boxer blu navy da uomo decorato con un tema festivo. Perfetto per un regalo. Taglio sportivo e aderente. Maglia di cotone di alta qualità, morbida ed elastica. Fascia elastica coperta nel tunnel. Polacco, noto marchio Cornette. Prodotto imballato in una scatola.",
+    "details": [
+      "Brand: Cornette",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 160199",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Cornette)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/921262.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 7,
+    "outfitSlot": "bottom",
+    "brand": "Cornette",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-188985",
+    "name": "Boxer model 188985 Cornette",
+    "subtitle": "Boxer • Brand Cornette",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 37,
+    "description": "Boxer natalizi da uomo con una divertente stampa sul tassello. Lo sfondo dei boxer è un festoso check rosso, verde e blu. La stampa è un giocoso pupazzo di neve con un pom pom spaziale sul cappuccio. Questi boxer sono un'interessante proposta di biancheria intima maschile unica per chi ha un senso dello stile e, allo stesso tempo, per chi è attento a se stesso. I comodi boxer devono le loro proprietà al materiale elastico e alla precisa lavorazione. Le cuciture piatte sono delicate sulla pelle, la finitura senza pressione sulle gambe garantisce il massimo comfort e la fascia di sostegno in vita è rifinita con un materiale morbido e delicato sulla pelle. I boxer sono confezionati in una scatola esteticamente gradevole.",
+    "details": [
+      "Brand: Cornette",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 188985",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Cornette)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1005547.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "bottom",
+    "brand": "Cornette",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-188986",
+    "name": "Boxer model 188986 Cornette",
+    "subtitle": "Boxer • Brand Cornette",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 32,
+    "description": "Boxer natalizi da uomo con una divertente stampa sul tassello. Lo sfondo dei boxer è un check festivo. La stampa sul tassello rappresenta il volto di Babbo Natale, sul cui berretto è stato cucito un ampio pon-pon. Questi boxer sono un'interessante proposta di biancheria intima da uomo unica per chi ha senso dello stile e allo stesso tempo per chi è attento a se stesso. I comodi boxer devono le loro proprietà al materiale elastico e alla precisa lavorazione. Le cuciture piatte sono delicate sulla pelle, la finitura senza pressione sulle gambe garantisce il massimo comfort e la fascia di sostegno in vita è rifinita con un materiale morbido e delicato sulla pelle. I boxer sono confezionati in una scatola esteticamente gradevole.",
+    "details": [
+      "Brand: Cornette",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 188986",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Cornette)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1005548.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "bottom",
+    "brand": "Cornette",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-188987",
+    "name": "Boxer model 188987 Cornette",
+    "subtitle": "Boxer • Brand Cornette",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 17,
+    "description": "Boxer natalizi da uomo con una divertente stampa sulla coscia. Lo sfondo dei boxer è un festoso check verde e blu navy. La stampa sulla gamba è la tanto amata torta di pan di zenzero. Questi boxer sono un'interessante proposta di biancheria intima maschile unica per chi ha un senso dello stile e, allo stesso tempo, per chi è attento a se stesso. I comodi boxer devono le loro proprietà al materiale elastico e alla lavorazione precisa. Le cuciture piatte sono delicate sulla pelle, la finitura senza pressione sulle gambe garantisce il massimo comfort e la fascia di sostegno in vita è rifinita con un materiale morbido e delicato sulla pelle. I boxer sono confezionati in una scatola esteticamente gradevole.",
+    "details": [
+      "Brand: Cornette",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 188987",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Cornette)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1005549.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "bottom",
+    "brand": "Cornette",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-175183",
+    "name": "Boxer model 175183 Cornette",
+    "subtitle": "Boxer • Brand Cornette",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 13,
+    "description": "Boxer model 175183 Cornette della linea ufficiale Cornette. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Cornette",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 175183",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Cornette)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/965911.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "bottom",
+    "brand": "Cornette",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.305Z"
+  },
+  {
+    "id": "mh-188573",
+    "name": "Pigiama model 188573 M-Max",
+    "subtitle": "Pigiama • Brand M-Max",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 57,
+    "originalPrice": 71,
+    "wholesalePrice": 35.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 21,
+    "description": "Classico pigiama da uomo sbottonato. La parte superiore del pigiama è di colore chiaro con un sottile motivo stampato. La blusa è dotata di tre pratiche tasche rifinite con un bordino a contrasto. I profili in raso nel colore dei pantaloni sottolineano il carattere elegante di questo pigiama. Pantaloni lunghi con vestibilità dritta e ampia.",
+    "details": [
+      "Brand: M-Max",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 188573",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (M-Max)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1004295.jpg",
+      "https://matterhorn-moda.it/pics_source/1004296.jpg",
+      "https://matterhorn-moda.it/pics_source/1004297.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "M-Max",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-188576",
+    "name": "Pigiama model 188576 M-Max",
+    "subtitle": "Pigiama • Brand M-Max",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 56,
+    "originalPrice": 70,
+    "wholesalePrice": 34.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 32,
+    "description": "Pigiama da uomo sbottonato classico ed elegante. Top del pigiama in una fantasia raffinata. La camicetta è rifinita con una maglia a contrasto nel colore dei pantaloni. I profili in raso colorato conferiscono a questo pigiama un aspetto elegante. Grandi bottoni perfettamente in linea con il design generale. Pantaloni lunghi con vestibilità ampia e dritta.",
+    "details": [
+      "Brand: M-Max",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 188576",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (M-Max)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1004303.jpg",
+      "https://matterhorn-moda.it/pics_source/1004304.jpg",
+      "https://matterhorn-moda.it/pics_source/1004305.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "M-Max",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-224361",
+    "name": "Pigiama model 224361 M-Max",
+    "subtitle": "Pigiama • Brand M-Max",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 38,
+    "originalPrice": 48,
+    "wholesalePrice": 23.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 37,
+    "description": "Pigiama da uomo confortevole che combina comfort con uno stile moderno. La maglietta con scollo a mezza luna e maniche corte garantisce libertà di movimento, mentre la stampa e la pratica tasca sul petto conferiscono carattere all'insieme. I pantaloncini corti dal taglio largo garantiscono comfort e libertà di movimento. L'elastico in vita assicura una vestibilità perfetta senza stringere. Realizzata in tessuto morbido al tatto, la pigiama è confezionata in una pratica busta di plastica, rendendola comoda da riporre e un'ottima idea regalo. Dimensioni: Taglia M: petto 100 cm, vita 90 cm. Taglia L: petto 104 cm, vita 94 cm. Taglia XL: petto 108 cm, vita 98 cm. Taglia XXL: petto 116 cm, vita 106 cm.",
+    "details": [
+      "Brand: M-Max",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 224361",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (M-Max)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1113895.jpg",
+      "https://matterhorn-moda.it/pics_source/1113896.jpg",
+      "https://matterhorn-moda.it/pics_source/1113897.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "M-Max",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-224362",
+    "name": "Pigiama model 224362 M-Max",
+    "subtitle": "Pigiama • Brand M-Max",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 54,
+    "originalPrice": 68,
+    "wholesalePrice": 33.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 39,
+    "description": "Comodo e elegante pigiama da uomo che unisce il comfort con un look classico. La maglietta a maniche corte con colletto e bottoni conferisce un carattere elegante, mentre il taglio largo e comodo garantisce piena libertà di movimento. I pantaloni lunghi, dotati di pratiche tasche, garantiscono comfort e funzionalità, mentre l'elastico in vita consente una perfetta vestibilità. Il tutto è realizzato in tessuto morbido e traspirante, piacevole sulla pelle, per un sonno confortevole. Il prodotto è confezionato in una pratica busta di plastica, rendendolo ideale anche come regalo. Misure: Taglia M: petto 100 cm, vita 90 cm Taglia L: petto 104 cm, vita 94 cm Taglia XL: petto 108 cm, vita 98 cm Taglia XXL: petto 116 cm, vita 106 cm.",
+    "details": [
+      "Brand: M-Max",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 224362",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (M-Max)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1113898.jpg",
+      "https://matterhorn-moda.it/pics_source/1113899.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "M-Max",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-225152",
+    "name": "Pigiama model 225152 Taro",
+    "subtitle": "Pigiama • Brand Taro",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 37,
+    "originalPrice": 46,
+    "wholesalePrice": 22.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "description": "Pigiama maschile composta da una maglietta a maniche corte e pantaloncini corti è la scelta ideale per le notti più calde. La maglietta ha un collo rotondo che garantisce comfort e libertà di movimento. Il taglio largo e comodo garantisce piena libertà di movimento e comfort durante il sonno e il relax a casa. I pantaloncini con una stampa elegante conferiscono un carattere moderno all'intero set. Il modello non ha tasche, sottolineando la sua leggerezza e comodità. Il set è confezionato in una pratica busta di plastica, che protegge il prodotto durante il trasporto e lo stoccaggio. Composizione: Parte superiore: 80% cotone, 20% elastan Parte inferiore: 100% cotone",
+    "details": [
+      "Brand: Taro",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 225152",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Taro)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1116487.jpg",
+      "https://matterhorn-moda.it/pics_source/1116488.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Taro",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-225153",
+    "name": "Pigiama model 225153 Taro",
+    "subtitle": "Pigiama • Brand Taro",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 22,
+    "description": "Pigiama da uomo composta da una maglietta a maniche corte e pantaloncini corti è una scelta eccellente per un sonno confortevole e relax nell'intimità di casa. La maglietta con scollo rotondo è decorata con una scritta sottile e piccola, che conferisce all'insieme un carattere moderno e minimalista. Il taglio largo e comodo garantisce libertà di movimento e comfort, mentre il tessuto morbido e traspirante fa sì che la pigiama sia perfetta anche nelle notti più calde. I pantaloncini corti con stampa completano perfettamente il set, conferendogli un aspetto alla moda. Il tutto è confezionato in una busta di plastica, che facilita la conservazione e protegge il prodotto durante il trasporto.",
+    "details": [
+      "Brand: Taro",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 225153",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Taro)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1116489.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosa",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Taro",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-225154",
+    "name": "Pigiama model 225154 Taro",
+    "subtitle": "Pigiama • Brand Taro",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 22,
+    "description": "La pigiama da uomo composta da una maglietta a maniche corte e pantaloncini corti è una comoda proposta per ogni notte. La maglietta con scollo rotondo è stata decorata con una scritta discreta che conferisce al tutto un carattere moderno e elegante. Il taglio morbido e comodo garantisce libertà di movimento e comfort durante il sonno e il relax quotidiano a casa. I pantaloncini corti stampati completano perfettamente il set, mentre l'elastico in vita garantisce una buona vestibilità e comfort. Il tutto è confezionato in una busta di plastica che protegge il prodotto e ne facilita la conservazione.",
+    "details": [
+      "Brand: Taro",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 225154",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Taro)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1116490.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Taro",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-225156",
+    "name": "Pigiama model 225156 Taro",
+    "subtitle": "Pigiama • Brand Taro",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 25,
+    "description": "Pigiama da uomo con maglietta a maniche corte e pantaloncini corti è la scelta perfetta per gli uomini che apprezzano il comfort e la libertà durante il sonno. La maglietta con scollo rotondo garantisce comfort e un look classico e universale. Il taglio largo e comodo garantisce piena libertà di movimento, mentre il tessuto morbido e traspirante fa sì che la pigiama sia ottima anche nelle notti più calde. I pantaloncini corti con stampa conferiscono un carattere moderno all'insieme. Il modello non ha tasche, sottolineando la leggerezza e il comfort nell'uso. Il tutto è confezionato in una borsa di plastica che protegge il prodotto e ne facilita la conservazione. Composizione: Parte superiore: 80% cotone, 20% poliestere Parte inferiore: 100% cotone",
+    "details": [
+      "Brand: Taro",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 225156",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Taro)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1116492.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Taro",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-225157",
+    "name": "Pigiama model 225157 Taro",
+    "subtitle": "Pigiama • Brand Taro",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 36,
+    "description": "Pigiama da uomo con maglietta a manica corta e pantaloncini corti è una comoda proposta non solo per dormire, ma anche come homewear confortevole. La maglietta con scollo rotondo e stampa accattivante conferisce all'insieme un carattere moderno e informale. La manica corta garantisce comfort e traspirabilità, soprattutto nei giorni più caldi. I pantaloncini corti sono dotati di pratiche tasche che aumentano la funzionalità del set. L'elastico in vita assicura una buona vestibilità e comfort durante l'uso. Il tutto è confezionato in un sacchetto di plastica che protegge il prodotto e ne facilita la conservazione. Composizione: Parte superiore: 80% cotone, 20% poliestere Parte inferiore: 100% cotone",
+    "details": [
+      "Brand: Taro",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 225157",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Taro)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1116493.jpg",
+      "https://matterhorn-moda.it/pics_source/1116494.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "s",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Taro",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-225158",
+    "name": "Pigiama model 225158 Taro",
+    "subtitle": "Pigiama • Brand Taro",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 18,
+    "description": "Pigiama da uomo con maglietta a maniche corte e pantaloncini corti è una comoda proposta non solo per dormire, ma anche come homewear confortevole. La maglietta con scollo rotondo e stampa accattivante conferisce all'insieme un carattere moderno e informale. Le maniche corte garantiscono comfort e traspirabilità, specialmente nei giorni più caldi. I pantaloncini corti sono dotati di pratiche tasche che aumentano la funzionalità del set. L'elastico in vita garantisce una buona vestibilità e comfort. Il tutto è confezionato in una borsa di plastica, che protegge il prodotto e ne facilita la conservazione. Composizione: Parte superiore: 95% cotone, 5% poliestere Parte inferiore: 100% cotone",
+    "details": [
+      "Brand: Taro",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 225158",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Taro)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1116495.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "s",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Taro",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-114441",
+    "name": "Pigiama model 114441 Luna",
+    "subtitle": "Pigiama • Brand Luna",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 32,
+    "description": "Per gli uomini che apprezzano il pigiama classico - modello 751 di Luna. Camicetta leggermente a coste con scollatura a bottoni e scollatura decorativa, taglio semplice e comodo e pantaloncini lisci prima del ginocchio, per completare il set. Dimensioni . Taglia M: petto 92-96, vita 82-86 Taglia L: petto 97-104, vita 87-94 Taglia XL: petto 105-112, vita 95-104 Taglia XXL: petto 113-120, vita 105-116 Taglia XXXL: petto 121-130, vita 117-124 Taglia XXXXL: petto 131-136, vita 125-130",
+    "details": [
+      "Brand: Luna",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 114441",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Luna)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/320358.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Luna",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-113688",
+    "name": "T-shirt model 113688 Pierre Cardin",
+    "subtitle": "T-shirt • Brand Pierre Cardin",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Magliette, Polo, T-shirt",
+    "price": 11,
+    "originalPrice": 14,
+    "wholesalePrice": 6.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 27,
+    "description": "T-shirt model 113688 Pierre Cardin della linea ufficiale Pierre Cardin. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Pierre Cardin",
+      "Categoria fornitore: /PER LUI/Moda da uomo /Camice, camicette/Magliette, Polo, T-shirt",
+      "Codice articolo: 113688",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Pierre Cardin)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/318497.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Pierre Cardin",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-113679",
+    "name": "T-shirt model 113679 Pierre Cardin",
+    "subtitle": "T-shirt • Brand Pierre Cardin",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Magliette, Polo, T-shirt",
+    "price": 11,
+    "originalPrice": 14,
+    "wholesalePrice": 6.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 14,
+    "description": "T-shirt model 113679 Pierre Cardin della linea ufficiale Pierre Cardin. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Pierre Cardin",
+      "Categoria fornitore: /PER LUI/Moda da uomo /Camice, camicette/Magliette, Polo, T-shirt",
+      "Codice articolo: 113679",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Pierre Cardin)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/318492.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Pierre Cardin",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-183500",
+    "name": "Pantaloncini da mare model 183500 Atlantic",
+    "subtitle": "Pantaloncini da mare • Brand Atlantic",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 25,
+    "originalPrice": 31,
+    "wholesalePrice": 15.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 23,
+    "description": "I pantaloncini da spiaggia da uomo KMB-210 sono un modello che attirerà sicuramente l'attenzione. Il sorprendente passaggio da un colore all'altro li distinguerà dagli altri pantaloncini da uomo. Hanno una lunghezza della gamba ampia e versatile, una vita media e due pratiche tasche sui lati. La coulisse in vita e l'elastico in vita rendono questi pantaloncini adattabili a qualsiasi figura maschile. Sono realizzati in poliestere, i cui principali vantaggi sono che si asciugano rapidamente, non perdono colore, non si deformano e non si sgualciscono. Il materiale è anche resistente al sole, un modello ideale sia per la spiaggia che per la piscina. Un ulteriore vantaggio è che quando i pantaloncini si bagnano, appare una stampa ad acqua.",
+    "details": [
+      "Brand: Atlantic",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 183500",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Atlantic)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/989482.jpg",
+      "https://matterhorn-moda.it/pics_source/989483.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Atlantic",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-146246",
+    "name": "Pantaloncini da mare model 146246 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 27,
+    "description": "Pantaloncini da bagno Playo Sea di alta qualità che possono essere utilizzati anche come pantaloncini da spiaggia. Fantastico, accattivante motivo nei colori del mare. Top con bordino rosso, elastico in vita e coulisse aggiuntiva per regolare la vita. Fodera in rete all'interno per un maggiore comfort.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146246",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883791.jpg",
+      "https://matterhorn-moda.it/pics_source/883792.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.306Z"
+  },
+  {
+    "id": "mh-146247",
+    "name": "Pantaloncini da mare model 146247 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 19,
+    "description": "Pantaloncini da bagno Playo Fish di alta qualità che possono essere utilizzati anche come pantaloncini da spiaggia. Fantastico, sorprendente modello in colori marini. Top con piping di agrumi, elastico in vita e coulisse in vita. Fodera in rete all'interno per un maggiore comfort.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146247",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883793.jpg",
+      "https://matterhorn-moda.it/pics_source/883794.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-146253",
+    "name": "Pantaloncini da mare model 146253 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "wholesalePrice": 16.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 33,
+    "description": "Pantaloncini da bagno Playo Palm di alta qualità, che possono essere utilizzati anche come pantaloncini da spiaggia. Motivo molto alla moda (foglie di palma) in colorazione verde freddo. Il top è rifinito in bianco e ha un elastico in vita con un cordoncino. Fodera in rete all'interno per un maggiore comfort.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146253",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883803.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-146257",
+    "name": "Slip model 146257 Alpha Male",
+    "subtitle": "Slip • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 27,
+    "description": "Slip model 146257 Alpha Male della linea ufficiale Alpha Male. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146257",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 92 %, Spandex 8 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883811.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 3,
+    "outfitSlot": "bottom",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-146263",
+    "name": "Pantaloncini da mare model 146263 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 14,
+    "originalPrice": 18,
+    "wholesalePrice": 8.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 21,
+    "description": "Fantastici costumi da bagno da uomo di Alpha Male dell'ultima collezione. Rosso e bianco, sembra alla moda e interessante. Buona copertura del corpo. Tessuto italiano, foderato, ad asciugatura rapida. Fascia elastica regolabile in vita con un tunnel e un cordino per regolare ulteriormente la circonferenza.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146263",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883821.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-146264",
+    "name": "Pantaloncini da mare model 146264 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 36,
+    "description": "Pantalone da bagno da uomo nero di Alpha Male con una tasca extra all'interno per poter mettere il contenuto senza doverlo sistemare continuamente. L'elastico in vita e una coulisse permettono di regolare la tensione. Il prodotto ha un rivestimento rinforzato che protegge dallo sbiadimento e dal pilling del tessuto. Due strisce nere diagonali e intriganti sul lato.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146264",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883822.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-146266",
+    "name": "Pantaloncini da mare model 146266 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 24,
+    "description": "Pantaloncini da bagno da uomo molto alla moda con una striscia gialla decorativa. Sono foderati, forniscono un'eccellente copertura e si adattano perfettamente al corpo. Elastico in vita e coulisse per un'ulteriore regolazione della circonferenza. I pantaloncini da bagno sono fatti con la migliore qualità di maglieria italiana e additivi elastici. Sono ad asciugatura rapida, resistenti all'acqua di mare e all'acqua clorata, hanno un rivestimento anti-peeling e proteggono dai raggi UV. Uno dei migliori produttori polacchi.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146266",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883825.jpg",
+      "https://matterhorn-moda.it/pics_source/883826.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-146267",
+    "name": "Pantaloncini da mare model 146267 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 21,
+    "originalPrice": 26,
+    "wholesalePrice": 12.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 15,
+    "description": "Pantaloncini da mare model 146267 Alpha Male della linea ufficiale Alpha Male. Confezionato secondo i più alti standard europei.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146267",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883827.jpg",
+      "https://matterhorn-moda.it/pics_source/883828.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-146294",
+    "name": "Pantaloncini da mare model 146294 Alpha Male",
+    "subtitle": "Pantaloncini da mare • Brand Alpha Male",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "wholesalePrice": 16.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 26,
+    "description": "Colori intriganti e un grande taglio - Aero è l'ultimo costume da bagno da uomo di Alfa Male. Ciò che lo distingue dal resto è la tasca extra all'interno, dove si può mettere il contenuto senza doverlo regolare. La vita è elasticizzata e c'è una coulisse per regolare la tensione. Il prodotto ha un rivestimento rinforzato che protegge dallo sbiadimento e dal pilling del tessuto.",
+    "details": [
+      "Brand: Alpha Male",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146294",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Alpha Male)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883868.jpg",
+      "https://matterhorn-moda.it/pics_source/883869.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Alpha Male",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-229176",
+    "name": "Pantaloncini da mare model 229176 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 37,
+    "description": "I pantaloncini da bagno da uomo della collezione Sport S99F sono un mix di stile sportivo, funzionalità e comfort, perfetti sia per il relax in spiaggia che per gli allenamenti in piscina. Il taglio moderno con dettagli decorativi conferisce al modello un carattere dinamico e sottolinea il suo aspetto sportivo. Per un comfort massimo, all'interno dei pantaloncini sono cucite delle mutande aggiuntive realizzate in un tessuto leggero e traspirante, che garantisce una buona ventilazione e comfort anche durante attività prolungate. I lacci interni permettono un'ulteriore regolazione della circonferenza della vita, assicurando una vestibilità stabile. Una pratica soluzione è anche la tasca interna discreta, ideale per conservare in modo sicuro piccoli oggetti come carta di credito, chiavi dell'armadietto o chiavi della camera d'albergo. Il modello è realizzato in un tessuto di alta qualità che si asciuga rapidamente e mantiene le sue proprietà anche con un uso frequente. Il tessuto è resistente al cloro e ai raggi solari, garantendo così che i pantaloncini da bagno mantengano a lungo un aspetto estetico e colori intensi.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229176",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Polyamid 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129264.jpg",
+      "https://matterhorn-moda.it/pics_source/1129265.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-229177",
+    "name": "Pantaloncini da mare model 229177 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 11,
+    "description": "I pantaloncini da bagno da uomo della collezione Sport S99F sono una combinazione di stile sportivo, funzionalità e comfort, perfetti sia per il relax in spiaggia che per gli allenamenti in piscina. Il taglio moderno con dettagli decorativi conferisce al modello un carattere dinamico e sottolinea il suo aspetto sportivo. Per massimo comfort, all'interno dei pantaloncini sono cuciti slip aggiuntivi realizzati in una leggera e traspirante rete che garantisce una corretta ventilazione e comfort anche durante attività prolungate. I cordini interni consentono un'ulteriore regolazione della circonferenza della vita, garantendo una vestibilità stabile sulla silhouette. Una pratica soluzione è anche la tasca interna discreta, ideale per riporre in sicurezza piccoli oggetti come la carta di credito, la chiave dell'armadietto o la chiave della camera d'albergo. Il modello è realizzato in materiale di alta qualità che si asciuga rapidamente e mantiene le sue proprietà anche con un uso frequente. Il tessuto è resistente al cloro e ai raggi solari, il che garantisce che i pantaloncini da bagno mantengano a lungo un aspetto estetico e l'intensità dei colori.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229177",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129266.jpg",
+      "https://matterhorn-moda.it/pics_source/1129267.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-229178",
+    "name": "Pantaloncini da mare model 229178 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 15,
+    "description": "I boxer da uomo della collezione Sport S99F sono un mix di stile sportivo, funzionalità e comfort, ideali per rilassarsi in spiaggia o allenarsi in piscina. Il taglio moderno con dettagli decorativi conferisce al modello un aspetto dinamico e sottolinea il suo look sportivo. All'interno degli shorts sono stati cuciti slip aggiuntivi realizzati in leggera e traspirante rete, che garantisce una buona ventilazione e comfort anche durante attività prolungate. I lacci interni consentono un'ulteriore regolazione della vita, garantendo una vestibilità stabile. Una pratica tasca interna discreta è perfetta per conservare in modo sicuro piccoli oggetti come carte di credito, chiavi dell'armadietto o della camera d'albergo. Il modello è realizzato in tessuto di alta qualità, che si asciuga rapidamente e mantiene le sue proprietà anche con un uso frequente. Il tessuto è resistente al cloro e ai raggi solari, garantendo alle boxer un aspetto estetico e colori intensi a lungo.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229178",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129268.jpg",
+      "https://matterhorn-moda.it/pics_source/1129269.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-229179",
+    "name": "Pantaloncini da mare model 229179 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 18,
+    "description": "I boxer da bagno da uomo in classico colore blu navy sono una scelta ideale per gli uomini che apprezzano comfort, funzionalità e stile sportivo. Dotati di un pratico laccio in vita, permettono un'accurata regolazione alla silhouette, garantendo comfort e stabilità durante il nuoto e il relax attivo. La fodera interna aumenta il comfort e fornisce un ulteriore supporto, rendendo il modello adatto sia in piscina che durante il relax in spiaggia. Il taglio accurato garantisce libertà di movimento e un'ottima vestibilità. I pantaloncini da bagno sono realizzati in materiale di alta qualità resistente al cloro e ai raggi UV. Il tessuto asciuga rapidamente e mantiene la sua lucentezza anche dopo molte stagioni, rendendo questo modello un compagno affidabile per le vacanze estive.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229179",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129270.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "L",
+      "2XL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-229180",
+    "name": "Pantaloncini da mare model 229180 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 38,
+    "description": "Boxer da bagno da uomo in classico colore nero sono una scelta eccellente per gli uomini che apprezzano comfort, funzionalità e stile sportivo. Dotati di un pratico cordoncino in vita, consentono un'accurata regolazione alla silhouette, garantendo comfort e stabilità durante il nuoto e il relax attivo. La fodera interna aumenta il comfort e fornisce un supporto aggiuntivo, rendendo il modello adatto sia in piscina che in spiaggia. Il taglio attentamente studiato garantisce libertà di movimento e un perfetto adattamento al corpo. I pantaloncini da bagno sono realizzati in un materiale di alta qualità resistente al cloro e ai raggi UV. Il tessuto ad asciugatura rapida e resistente mantiene le sue proprietà e il suo aspetto estetico anche dopo molte stagioni di utilizzo, rendendo questo modello un compagno affidabile per le vacanze estive.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229180",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129271.jpg",
+      "https://matterhorn-moda.it/pics_source/1129272.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-229181",
+    "name": "Pantaloncini da mare model 229181 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 12,
+    "description": "I boxer da bagno da uomo in un classico colore blu scuro sono una scelta eccellente per gli uomini che apprezzano il comfort, la funzionalità e lo stile sportivo. Dotati di un pratico cordoncino in vita, consentono un'adattamento preciso alla silhouette, garantendo comfort e stabilità durante il nuoto e il relax attivo. La fodera interna aumenta il comfort e fornisce un supporto aggiuntivo, rendendo il modello adatto sia in piscina che durante il relax in spiaggia. Il taglio accurato garantisce libertà di movimento e un'ottima vestibilità. I pantaloncini da bagno sono realizzati in materiale di alta qualità resistente al cloro e ai raggi UV. Il tessuto ad asciugatura rapida e resistente mantiene le sue proprietà e il suo aspetto estetico anche dopo molte stagioni di utilizzo, rendendo questo modello un compagno affidabile per le vacanze estive.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229181",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129273.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.307Z"
+  },
+  {
+    "id": "mh-229182",
+    "name": "Pantaloncini da mare model 229182 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 22,
+    "description": "I boxer da bagno da uomo in un classico colore blu scuro sono una scelta eccellente per gli uomini che apprezzano il comfort, la funzionalità e lo stile sportivo. Dotati di un pratico cordoncino in vita, consentono un'accurata regolazione sulla silhouette, garantendo comfort e stabilità durante il nuoto e il relax attivo. La fodera interna aumenta il comfort e fornisce un supporto aggiuntivo, rendendo il modello adatto sia in piscina che durante il relax in spiaggia. Il taglio accuratamente studiato garantisce libertà di movimento e un'ottima vestibilità al corpo. I pantaloncini da bagno sono realizzati in materiale di alta qualità resistente al cloro e ai raggi UV. Il tessuto rapido asciugatura e resistente mantiene le sue proprietà e il suo aspetto estetico anche dopo molte stagioni di utilizzo, rendendo questo modello un compagno affidabile per le vacanze estive.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229182",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129274.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229183",
+    "name": "Pantaloncini da mare model 229183 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 36,
+    "description": "I boxer da uomo in costume da bagno in colore blu scuro classico sono una scelta eccellente per gli uomini che apprezzano il comfort, la funzionalità e lo stile sportivo. Dotati di un pratico cordoncino in vita, consentono un'accurata regolazione alla silhouette, garantendo comfort e stabilità durante il nuoto e il relax attivo. La fodera interna aumenta il comfort e fornisce un supporto aggiuntivo, rendendo il modello adatto sia in piscina che durante il relax in spiaggia. Il taglio attentamente studiato garantisce libertà di movimento e un'ottima vestibilità. I pantaloncini da bagno sono realizzati in materiale di alta qualità resistente al cloro e ai raggi UV. Il tessuto rapido nell'asciugatura e resistente mantiene le sue caratteristiche e il suo aspetto estetico anche dopo molte stagioni di utilizzo, rendendo questo modello un compagno affidabile per le vacanze estive.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229183",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129275.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229184",
+    "name": "Pantaloncini da mare model 229184 Barontex",
+    "subtitle": "Pantaloncini da mare • Brand Barontex",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 36,
+    "description": "I pantaloncini da bagno da uomo sono un modello universale che si adatta perfettamente sia in spiaggia che in piscina. Il taglio moderno combinato con dettagli funzionali garantisce comfort, libertà di movimento e soluzioni pratiche per l'uso quotidiano. Davanti ci sono grandi e comode tasche che possono facilmente contenere il telefono o altri piccoli oggetti. Sul retro è presente una tasca con chiusura a strappo, mentre un occhiello aggiuntivo per lo scarico consente di far scorrere l'acqua liberamente, aumentando il comfort durante il bagno. All'interno dei pantaloncini sono cuciti leggeri slip traspiranti in rete sottile, che garantiscono comfort e supporto adeguato. La cintura elastica è dotata di cordini per la regolazione, consentendo un'ottima vestibilità. Il modello si distingue per le decorazioni laterali che gli conferiscono un carattere sportivo e moderno. Le ampie e comode gambe garantiscono piena libertà di movimento, indipendentemente dall'attività svolta. I pantaloncini sono realizzati in un materiale di alta qualità che si asciuga rapidamente, resistente ai raggi solari e al cloro, mantenendo il loro aspetto e le loro proprietà nel tempo.",
+    "details": [
+      "Brand: Barontex",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229184",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Barontex)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1129276.jpg",
+      "https://matterhorn-moda.it/pics_source/1129277.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "2XL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Barontex",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229975",
+    "name": "completo model 229975 Sloggi",
+    "subtitle": "completo • Brand Sloggi",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "description": "Il 2-pack di slip Start Midi 10206949-0004 del marchio Sloggi è un modello classico che unisce comfort, stile senza tempo e finiture curate. Il taglio tradizionale garantisce un'ottima vestibilità e libertà di movimento per un uso quotidiano. L'elastico in vita è decorato con il logo del marchio Sloggi, conferendo all'intimo un carattere sportivo e moderno. Le cuciture anteriori sono realizzate con un filo contrastante nel colore corrispondente alle scritte sull'elastico, conferendo un aspetto coerente e stiloso. Il pratico due-pack è una scelta eccellente per gli uomini che apprezzano comfort, qualità e design classico.",
+    "details": [
+      "Brand: Sloggi",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229975",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 96 %, Spandex 4 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Sloggi)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1131967.jpg",
+      "https://matterhorn-moda.it/pics_source/1131968.jpg",
+      "https://matterhorn-moda.it/pics_source/1131969.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "XL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Sloggi",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229977",
+    "name": "Boxer model 229977 Sloggi",
+    "subtitle": "Boxer • Brand Sloggi",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "wholesalePrice": 16.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 28,
+    "description": "I boxer in cotone da uomo Sloggi Boxer Shorts 10215473-1771 sono l'ideale connubio tra comfort, qualità e stile moderno. Realizzati in cotone biologico particolarmente morbido, garantiscono una naturale traspirabilità, piacere nell'indossarli e comfort per tutta la giornata. Il taglio classico assicura piena libertà di movimento, mentre l'alta percentuale di elastan fa sì che i boxer si adattino perfettamente alla silhouette, mantenendo elasticità e comfort. Il tessuto è certificato GOTS, confermando l'impiego di fibre di alta qualità organiche, delicate sulla pelle e sull'ambiente. La tecnologia Soft Tech conferisce al tessuto una straordinaria morbidezza, sofficità e maggiore resistenza. La finitura senza cuciture in vita con il logo Sloggi discreto previene l'irritazione, garantendo ancora maggiore comfort. Le cuciture morbide proteggono la pelle dalle irritazioni, mentre l'apertura pratica senza bottoni aumenta la comodità d'uso. I boxer Boxer Shorts 10215473-3828 sono la scelta ideale per gli uomini che apprezzano l'unione di materiali ecologici, soluzioni funzionali e design senza tempo nella biancheria intima quotidiana.",
+    "details": [
+      "Brand: Sloggi",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229977",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 90 %, Spandex 10 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Sloggi)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1131974.jpg",
+      "https://matterhorn-moda.it/pics_source/1131975.jpg",
+      "https://matterhorn-moda.it/pics_source/1131976.jpg",
+      "https://matterhorn-moda.it/pics_source/1131977.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 10,
+    "outfitSlot": "bottom",
+    "brand": "Sloggi",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229978",
+    "name": "Slip model 229978 Sloggi",
+    "subtitle": "Slip • Brand Sloggi",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 10,
+    "description": "I classici slip da uomo Men Basic Mini 10004711 sono un modello intramontabile che unisce comfort, funzionalità e alta qualità. Realizzati in morbido cotone piacevole al tatto, garantiscono comfort durante tutto il giorno e libertà di movimento naturale. Il taglio con vita leggermente più bassa si adatta perfettamente alla silhouette, mentre il doppio strato di materiale nella parte anteriore garantisce maggiore comfort e sostegno adeguato. L'elastico in vita decorato con il logo Sloggi sottolinea il carattere classico e sportivo dell'intimo. Un modello affidabile che dovrebbe essere presente in ogni guardaroba maschile, perfetto per tutti i giorni, per coloro che apprezzano comfort e semplicità.",
+    "details": [
+      "Brand: Sloggi",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229978",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 96 %, Spandex 4 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Sloggi)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1131978.jpg",
+      "https://matterhorn-moda.it/pics_source/1131979.jpg",
+      "https://matterhorn-moda.it/pics_source/1131980.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 11,
+    "outfitSlot": "bottom",
+    "brand": "Sloggi",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229979",
+    "name": "Slip model 229979 Sloggi",
+    "subtitle": "Slip • Brand Sloggi",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 11,
+    "originalPrice": 14,
+    "wholesalePrice": 6.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 25,
+    "description": "I classici slip da uomo Men Basic Mini 10004711 sono un modello senza tempo che unisce comfort, funzionalità e alta qualità. Realizzati in morbido cotone piacevole al tatto, garantiscono comfort durante tutto il giorno e libertà di movimento naturale. Il taglio con vita leggermente più bassa si adatta perfettamente alla silhouette, mentre il doppio strato di tessuto davanti assicura maggiore comfort e supporto adeguato. L'elastico in vita decorato con il marchio Sloggi sottolinea il carattere classico e sportivo dell'intimo. Un modello affidabile che dovrebbe essere presente in ogni guardaroba maschile, perfetto per tutti i giorni, per coloro che apprezzano comfort e semplicità.",
+    "details": [
+      "Brand: Sloggi",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229979",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 96 %, Spandex 4 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Sloggi)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1131981.jpg",
+      "https://matterhorn-moda.it/pics_source/1131982.jpg",
+      "https://matterhorn-moda.it/pics_source/1131983.jpg",
+      "https://matterhorn-moda.it/pics_source/1131984.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 9,
+    "outfitSlot": "bottom",
+    "brand": "Sloggi",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229980",
+    "name": "Boxer model 229980 Sloggi",
+    "subtitle": "Boxer • Brand Sloggi",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 8,
+    "originalPrice": 10,
+    "wholesalePrice": 4.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 14,
+    "description": "Boxer maschili 10163161 è un modello creato pensando al massimo comfort e libertà di movimento. Il taglio aderente si adatta perfettamente alla silhouette, garantendo comfort durante l'uso quotidiano. Le gambe corte conferiscono loro un carattere moderno e pratico, mentre la finitura senza cuciture e i materiali piacevoli al tatto aumentano il comfort e prevengono irritazioni. È una scelta eccellente per gli uomini che apprezzano biancheria intima comoda, funzionale e minimalista per tutti i giorni.",
+    "details": [
+      "Brand: Sloggi",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229980",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 96 %, Spandex 4 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Sloggi)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1131985.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "2XL"
+    ],
+    "stock": 5,
+    "outfitSlot": "bottom",
+    "brand": "Sloggi",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229981",
+    "name": "Slip model 229981 Sloggi",
+    "subtitle": "Slip • Brand Sloggi",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 22,
+    "description": "I classici slip da uomo Men Basic Midi 10004712 sono un modello senza tempo che unisce comfort, funzionalità e vestibilità perfetta. Il taglio leggermente più ampio garantisce una copertura confortevole e libertà di movimento, rendendo gli slip perfetti per un uso quotidiano. Realizzati in morbido cotone piacevole al tatto, sono delicati sulla pelle e garantiscono un elevato comfort per l'intera giornata. Il davanti è realizzato in doppio materiale, garantendo un comfort aggiuntivo e un adeguato supporto. L'elastico in vita decorato con scritte Sloggi conferisce al capo intimo un carattere classico e sportivo e assicura una perfetta vestibilità alla silhouette. Gli slip Men Basic Midi 10004712 sono una scelta affidabile per gli uomini che apprezzano la semplicità, la qualità e il comfort, un modello che dovrebbe essere presente in ogni guardaroba maschile.",
+    "details": [
+      "Brand: Sloggi",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229981",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 96 %, Spandex 4 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Sloggi)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1131986.jpg",
+      "https://matterhorn-moda.it/pics_source/1131987.jpg",
+      "https://matterhorn-moda.it/pics_source/1131988.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "2XL"
+    ],
+    "stock": 6,
+    "outfitSlot": "bottom",
+    "brand": "Sloggi",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-229982",
+    "name": "Slip model 229982 Sloggi",
+    "subtitle": "Slip • Brand Sloggi",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 16,
+    "originalPrice": 20,
+    "wholesalePrice": 9.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 17,
+    "description": "I classici slip da uomo Men Basic Midi 10004712 sono un modello senza tempo che unisce comfort, funzionalità e vestibilità perfetta. Il taglio leggermente più ampio garantisce una copertura confortevole e libertà di movimento, rendendo gli slip perfetti per l'uso quotidiano. Realizzati in cotone morbido e piacevole al tatto, sono delicati sulla pelle e garantiscono un comfort elevato per l'intera giornata. Il davanti è realizzato con un doppio strato di materiale, garantendo un comfort aggiuntivo e un adeguato supporto. L'elastico in vita decorato con scritte Sloggi conferisce al capo intimo un carattere classico e sportivo, assicurando una vestibilità ideale alla figura. Gli slip Men Basic Midi 10004712 sono una scelta affidabile per gli uomini che apprezzano la semplicità, la qualità e il comfort, un modello che dovrebbe trovarsi in ogni guardaroba maschile.",
+    "details": [
+      "Brand: Sloggi",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 229982",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 96 %, Spandex 4 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Sloggi)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1131989.jpg",
+      "https://matterhorn-moda.it/pics_source/1131990.jpg",
+      "https://matterhorn-moda.it/pics_source/1131991.jpg",
+      "https://matterhorn-moda.it/pics_source/1131992.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#27272a"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 12,
+    "outfitSlot": "bottom",
+    "brand": "Sloggi",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=products_xml&category_id=223",
+    "importedAt": "2026-10-14T10:53:58.308Z"
+  },
+  {
+    "id": "mh-181785",
+    "name": "Slip model 181785 Anais",
+    "subtitle": "Slip • Brand Anais",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "wholesalePrice": 16.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 29,
+    "description": "Slip da uomo sexy e unici. Sono realizzati con materiali di altissima qualità. Il taglio perfetto garantisce il massimo comfort. Vita elastica ampia, morbida e confortevole.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181785",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984515.jpg",
+      "https://matterhorn-moda.it/pics_source/984516.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181810",
+    "name": "Canottiera model 181810 Anais",
+    "subtitle": "Canottiera • Brand Anais",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "T-shirt, magliette",
+    "price": 33,
+    "originalPrice": 41,
+    "wholesalePrice": 20.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 24,
+    "description": "T-shirt senza spalline con profondi e comodi cut-out. Perfetta aderenza al corpo.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 181810",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984565.jpg",
+      "https://matterhorn-moda.it/pics_source/984566.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181786",
+    "name": "Boxer model 181786 Anais",
+    "subtitle": "Boxer • Brand Anais",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 32,
+    "description": "Boxer da uomo dal taglio sportivo. Realizzati in materiale di alta qualità. Gambe più lunghe e comodo elastico in vita per il massimo comfort. Perfettamente adattati al corpo.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181786",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984517.jpg",
+      "https://matterhorn-moda.it/pics_source/984518.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181811",
+    "name": "Canottiera model 181811 Anais",
+    "subtitle": "Canottiera • Brand Anais",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "T-shirt, magliette",
+    "price": 33,
+    "originalPrice": 41,
+    "wholesalePrice": 20.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 31,
+    "description": "T-shirt senza spalline con profondi e comodi cut-out. Perfetta aderenza al corpo.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 181811",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984567.jpg",
+      "https://matterhorn-moda.it/pics_source/984568.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181787",
+    "name": "Perizoma model 181787 Anais",
+    "subtitle": "Perizoma • Brand Anais",
+    "category": "intimo",
+    "categoryName": "Intimo & Lingerie",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "description": "Un tanga da uomo eccezionalmente confortevole. Rifinito con elastici molto delicati. Si adatta perfettamente al corpo per un comfort eccellente.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181787",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984519.jpg",
+      "https://matterhorn-moda.it/pics_source/984520.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "XXXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181812",
+    "name": "Boxer model 181812 Anais",
+    "subtitle": "Boxer • Brand Anais",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 32,
+    "description": "Boxer Banana da uomo con motivo a banana e bocca. Realizzati con materiali di alta qualità. I boxer Banana abbinati sono per chi non teme l'originalità.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181812",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984569.jpg",
+      "https://matterhorn-moda.it/pics_source/984570.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181790",
+    "name": "Perizoma model 181790 Anais",
+    "subtitle": "Perizoma • Brand Anais",
+    "category": "intimo",
+    "categoryName": "Intimo & Lingerie",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 17,
+    "originalPrice": 21,
+    "wholesalePrice": 10.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 19,
+    "description": "Perizoma maschile estremamente confortevole. Rifinito con elastici molto sottili, si adatta perfettamente a qualsiasi uomo. Eccellente comfort d'uso, seduzione di buon gusto garantita.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181790",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984525.jpg",
+      "https://matterhorn-moda.it/pics_source/984526.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#15803d"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181795",
+    "name": "Boxer model 181795 Anais",
+    "subtitle": "Boxer • Brand Anais",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 22,
+    "description": "Hipster da uomo follemente eleganti in stampa leopardata rossa, si adattano perfettamente a ogni uomo. Seduzione di buon gusto, garantita.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181795",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984535.jpg",
+      "https://matterhorn-moda.it/pics_source/984536.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181797",
+    "name": "Boxer model 181797 Anais",
+    "subtitle": "Boxer • Brand Anais",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 13,
+    "description": "Slip dal taglio sportivo, realizzato in tessuto di alta qualità. Gambe più corte per una vestibilità perfetta.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181797",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984539.jpg",
+      "https://matterhorn-moda.it/pics_source/984540.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#15803d"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181799",
+    "name": "Boxer model 181799 Anais",
+    "subtitle": "Boxer • Brand Anais",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 37,
+    "description": "Boxer da uomo dal taglio sportivo. Realizzati in materiale di alta qualità. Gambe più lunghe e comodo elastico in vita per il massimo comfort. Perfettamente adattati al corpo.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181799",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984543.jpg",
+      "https://matterhorn-moda.it/pics_source/984544.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-181800",
+    "name": "Boxer model 181800 Anais",
+    "subtitle": "Boxer • Brand Anais",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 25,
+    "originalPrice": 31,
+    "wholesalePrice": 15.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 12,
+    "description": "Boxer da uomo dal taglio sportivo in tessuto di alta qualità. Gambe più lunghe. Vestibilità perfetta.",
+    "details": [
+      "Brand: Anais",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 181800",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984545.jpg",
+      "https://matterhorn-moda.it/pics_source/984546.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-146978",
+    "name": "completo model 146978 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 39,
+    "description": "Option è l'ultima confezione da 2 di boxer da uomo di Henderson. Se ti piacciono i modelli lisci, non spalmati, con un accento interessante (per esempio, elegante, alla moda, con un elastico stampato in vita) - questo è qualcosa per te. Il tutto è evidenziato da un colore interessante. Profilo frontale, cotone morbido e di alta qualità. Il set comprende due pezzi di biancheria intima, entrambi visti nella foto.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 146978",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/885764.jpg",
+      "https://matterhorn-moda.it/pics_source/885765.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-175642",
+    "name": "completo model 175642 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 25,
+    "originalPrice": 31,
+    "wholesalePrice": 15.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 22,
+    "description": "completo model 175642 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 175642",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/966194.jpg",
+      "https://matterhorn-moda.it/pics_source/966195.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-150893",
+    "name": "Pigiama model 150893 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 40,
+    "originalPrice": 50,
+    "wholesalePrice": 24.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 20,
+    "description": "Comodo pigiama a due pezzi di Henderson della linea Premium, mantenuto in uno stile sportivo. Caratterizzato da una t-shirt e pantaloni al ginocchio in un leggero e piacevole motivo a quadri. Lo schema di colori è basato su una base blu con inserti rossi. Senza tempo e confortevole. L'ultima collezione. . Taglia M: petto 90-96 cm, vita 82-88 cm . Taglia L: petto 96-102 cm, vita 90-96 cm Taglia XL: petto 102-108 cm, vita 98-104 cm Taglia XXL: petto 108-114 cm, vita 106-110 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 150893",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/895897.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-151510",
+    "name": "completo model 151510 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 25,
+    "description": "Boxer da uomo verde e blu navy in un pacco da 2, da Henderson. Una linea dedicata agli uomini che cercano disegni interessanti in una disposizione sportiva per la primavera. Tessuto con stampa delicata. Pannello frontale profilato, cotone di alta qualità.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151510",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897595.jpg",
+      "https://matterhorn-moda.it/pics_source/897596.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-177494",
+    "name": "Pantaloncini da mare model 177494 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 21,
+    "description": "Pantaloncini da mare model 177494 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 177494",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/971911.jpg",
+      "https://matterhorn-moda.it/pics_source/971912.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-153229",
+    "name": "Boxer model 153229 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 14,
+    "originalPrice": 18,
+    "wholesalePrice": 8.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 10,
+    "description": "Biancheria intima di base? Doss - boxer da uomo blu navy della nuova collezione di Henderson. Si abbinano perfettamente al tuo vestito di tutti i giorni. Tessuto rivestito con stampa fine, con fascia elastica con logo del produttore in vita.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 153229",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/902058.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-157058",
+    "name": "completo model 157058 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 30,
+    "description": "Confezione da 2 di boxer da uomo in nero e verde, dall'ultima collezione del produttore. Gomma con stampa Henderson. Pannello frontale decorato con piping a contrasto. Maglia di cotone morbida ed elastica.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 157058",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/912615.jpg",
+      "https://matterhorn-moda.it/pics_source/912616.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.902Z"
+  },
+  {
+    "id": "mh-183849",
+    "name": "Pigiama model 183849 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 38,
+    "originalPrice": 48,
+    "wholesalePrice": 23.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 38,
+    "description": "Pigiama da uomo composto da T-shirt e pantaloni. T-shirt a maniche lunghe con scollo a metà. Pantaloni lunghi con elastico in vita. Dimensioni: . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm . Taglia XL: torace 102-106 cm, fianchi 106-110 cm . Taglia XXL: torace 106-110 cm, fianchi 110-114 cm .",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 183849",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/990438.jpg",
+      "https://matterhorn-moda.it/pics_source/990439.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#15803d"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-118389",
+    "name": "Boxer model 118389 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 14,
+    "originalPrice": 18,
+    "wholesalePrice": 8.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 14,
+    "description": "Boxer model 118389 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 118389",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/329583.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-164920",
+    "name": "Pigiama model 164920 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 11,
+    "description": "Pigiama da uomo composto da una maglietta e pantaloncini. T-shirt a maniche corte con scritta sul davanti. Pantaloncini corti, con una coulisse in vita. Composizione: Pantaloncini 60% cotone, 40% poliestere, maglietta 100% cotone. . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: petto 98-102 cm, fianchi 102-106 cm Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 164920",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/934717.jpg"
+    ],
+    "colors": [
+      {
+        "name": "marrone",
+        "hex": "#78350f"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-171359",
+    "name": "completo model 171359 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 16,
+    "description": "Slip classico e semplice di HENDERSON BONE in colori tenui. Il taglio dritto è caratterizzato da un'ampia fascia elastica in vita con logo Henderson stampato. Il taglio aderente e le cuciture piatte li rendono impercettibili sotto i vestiti. Perfetto per ogni occasione.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 171359",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/953494.jpg",
+      "https://matterhorn-moda.it/pics_source/953498.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-172716",
+    "name": "Pigiama model 172716 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 59,
+    "originalPrice": 74,
+    "wholesalePrice": 36.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 19,
+    "description": "Il pigiama da uomo a due pezzi di HENDERSON TRADE è realizzato in cotone al 100% per un sonno confortevole e riposante. La blusa a maniche lunghe, liscia e semplice, presenta uno scollo rotondo con abbottonatura a tre bottoni e maniche e orlo rifiniti con un ampio bordo a coste. I pantaloni a scacchi, dalla vestibilità ampia, con coulisse in vita e polsini alle caviglie, sono perfetti sia in casa che fuori. Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 172716",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/957554.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-208067",
+    "name": "Pigiama model 208067 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 41,
+    "originalPrice": 51,
+    "wholesalePrice": 25.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 26,
+    "description": "Questo pigiama è la proposta ideale per gli uomini che apprezzano il comfort e la comodità durante il sonno. Realizzato in tessuto morbido e piacevole al tatto, il pigiama è estremamente confortevole e garantisce un sonno rilassante. La maglietta con scollo classico e rotondo è un elemento versatile che si adatta a ogni situazione. Inoltre, il pigiama ha una pratica tasca sul petto, ideale per piccoli oggetti. Gli shorts corti con stampa alla moda sono l'ideale connubio tra comfort e stile. L'elastico comodo in vita e i lacci permettono un'ottima vestibilità. Il pigiama realizzato in tessuto morbido e traspirante è la scelta ideale per le calde notti. Permette alla pelle di respirare e assicura un sonno confortevole. Il pigiama è confezionato in una scatola elegante, rendendolo il regalo perfetto per una persona cara. È un'ottima idea regalo per compleanni, onomastici, festività o altre occasioni. Questo pigiama è un must-have nel guardaroba di ogni uomo che apprezza comfort e comodità durante il sonno. Il suo aspetto elegante e i dettagli pratici lo rendono ideale per molte notti. Misure: Taglia M: Petto 94-98 cm, fianchi 98-102 cm Taglia L: Petto 98-102 cm, fianchi 102-106 cm Taglia XL: Petto 102-106 cm, fianchi 106-110 cm Taglia XXL: Petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: Petto 114-120 cm, fianchi 114-118 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 208067",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1063158.jpg",
+      "https://matterhorn-moda.it/pics_source/1063159.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#15803d"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-141587",
+    "name": "completo model 141587 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 21,
+    "originalPrice": 26,
+    "wholesalePrice": 12.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 20,
+    "description": "Set di 2 boxer da uomo in blu navy. Uno a righe, l'altro a pois, entrambi rifiniti con filo a contrasto. Morbida maglia di cotone. Fascia in vita con elastico liscio.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 141587",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/870884.jpg",
+      "https://matterhorn-moda.it/pics_source/870885.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-211657",
+    "name": "Pantaloncini da mare model 211657 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "description": "Eccellere in spiaggia con questi pantaloncini da uomo con una stampa alla moda e dettagli curati. Realizzati in materiale leggero e ad asciugatura rapida, con fodera interna per un maggiore comfort. La larga cintura in vita abbinata a cordino e laccio consente un'ottima vestibilità, mentre le tasche laterali aggiungono funzionalità, ideali per piccoli oggetti quando sei in movimento. La moderna palette di colori alla moda e il taglio curato rendono questo capo un must-have della stagione. Il tutto confezionato in una pratica sacca, ideale per la spiaggia, la piscina o per una vacanza.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211657",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1074008.jpg",
+      "https://matterhorn-moda.it/pics_source/1074009.jpg",
+      "https://matterhorn-moda.it/pics_source/1074010.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "stock": 12,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-175644",
+    "name": "completo model 175644 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 33,
+    "originalPrice": 41,
+    "wholesalePrice": 20.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "description": "completo model 175644 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 175644",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/966198.jpg",
+      "https://matterhorn-moda.it/pics_source/966199.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-151517",
+    "name": "Slip model 151517 Henderson",
+    "subtitle": "Slip • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 27,
+    "description": "Comodi slip da uomo cuciti con una maglia di cotone più scura, morbida e molto confortevole. Linea Henderson Premium. Una proposta che si riferisce alle ultime tendenze della moda intima, un sottile motivo a mosaico combinato con colori originali. Cintura elastica stampata in vita.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151517",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897609.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-223978",
+    "name": "completo model 223978 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 22,
+    "originalPrice": 28,
+    "wholesalePrice": 13.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 35,
+    "description": "Set di boxer maschili in un pratico pacchetto da 2, creato con l'obiettivo di comfort e stile moderno. Il taglio aderente enfatizza la silhouette, garantendo al contempo piena libertà di movimento nella vita di tutti i giorni. Il set include due paia: una liscia e l'altra con una stampa alla moda, permettendo di scegliere in base all'umore. I boxer sono realizzati in tessuto morbido e traspirante, piacevole sulla pelle e ideale per essere indossato per tutto il giorno. L'ampia fascia in vita garantisce una vestibilità stabile senza stringere, mentre la decorativa fascia stampata aggiunge un tocco di modernità. Il prodotto è confezionato in una scatola estetica, rendendolo un regalo pratico e alla moda.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 223978",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1112600.jpg",
+      "https://matterhorn-moda.it/pics_source/1112601.jpg",
+      "https://matterhorn-moda.it/pics_source/1112602.jpg",
+      "https://matterhorn-moda.it/pics_source/1112603.jpg",
+      "https://matterhorn-moda.it/pics_source/1112604.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-177495",
+    "name": "Pantaloncini da mare model 177495 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 30,
+    "originalPrice": 38,
+    "wholesalePrice": 18.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 25,
+    "description": "Pantaloncini da mare model 177495 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 177495",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/971913.jpg",
+      "https://matterhorn-moda.it/pics_source/971914.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-157059",
+    "name": "Canottiera model 157059 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "T-shirt, magliette",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 10,
+    "description": "Simply Basic - T-shirt nera a fascia larga da uomo, n. 1480 di Henderson. Un vero classico che nessun uomo dovrebbe dimenticare. Adatta al corpo, elastica, realizzata con tecnologia Body Fit. Buona qualità e taglio sportivo collaudato. Ideale per i giorni caldi, buono come pigiama, abbigliamento per la casa o sotto un maglione. Universale e senza tempo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 157059",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/912617.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.903Z"
+  },
+  {
+    "id": "mh-172717",
+    "name": "Pigiama model 172717 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 45,
+    "originalPrice": 56,
+    "wholesalePrice": 27.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 10,
+    "description": "Pigiama model 172717 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 172717",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/957555.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#15803d"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-211658",
+    "name": "Pantaloncini da mare model 211658 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 12,
+    "description": "Moderni costumi da bagno da uomo creati pensando al comfort e all'attività. Realizzati in materiale ad asciugatura rapida con una stampa accattivante che attira l'attenzione e sottolinea il carattere estivo dello stile. Il modello ha un'ampia fascia in vita e coulisse in vita, garantendo una vestibilità sicura e comoda. La fodera interna aumenta il comfort durante l'uso, mentre le tasche sui lati aggiungono funzionalità, perfette per piccoli oggetti durante una passeggiata in spiaggia. Il tutto confezionato in un pratico sacchetto, rendendo i costumi da bagno ottimi anche per viaggi o palestra. Ideali per le vacanze, la piscina e il relax attivo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211658",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1074011.jpg",
+      "https://matterhorn-moda.it/pics_source/1074012.jpg",
+      "https://matterhorn-moda.it/pics_source/1074013.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-151518",
+    "name": "Boxer model 151518 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 11,
+    "description": "Boxer scuri da uomo decorati con una delicata stampa sul tessuto, con un interessante elastico in vita in edizione bicolore. Cercando qualcosa alla moda e comodo, questa proposta sarà perfetta. Linea Henderson Premium.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151518",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897610.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-223979",
+    "name": "completo model 223979 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 24,
+    "originalPrice": 30,
+    "wholesalePrice": 14.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 39,
+    "description": "Un set di boxer maschili in pratico pacchetto da 2, progettato con comfort e stile moderno. Il modello con gamba più lunga garantisce una migliore vestibilità e un maggiore comfort durante una giornata attiva. Il taglio aderente enfatizza la silhouette, senza limitare i movimenti. I boxer sono realizzati in tessuto liscio e piacevole al tatto, che si adatta perfettamente al corpo. L'ampia fascia in vita garantisce stabilità e comfort, mentre la fascia decorativa stampata conferisce un carattere elegante e maschile all'insieme. Il set è confezionato in una scatola estetica, perfetto anche come regalo pratico.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 223979",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1112605.jpg",
+      "https://matterhorn-moda.it/pics_source/1112606.jpg",
+      "https://matterhorn-moda.it/pics_source/1112607.jpg",
+      "https://matterhorn-moda.it/pics_source/1112608.jpg",
+      "https://matterhorn-moda.it/pics_source/1112609.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-152050",
+    "name": "Pigiama model 152050 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 33,
+    "originalPrice": 41,
+    "wholesalePrice": 20.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 25,
+    "description": "Cercate il comfort combinato con il design? - Dodge è un pigiama a due pezzi da uomo della linea premium di Henderson che dovrebbe attirare la vostra attenzione. È uno stile classico e sportivo completato da accessori e finiture di alta qualità. I pantaloni al ginocchio hanno un impressionante elastico in vita con il logo stampato del produttore, grazie al quale guadagnano una forma moderna e intrigante. Maglietta molto comoda, con una tasca. Dimensioni . Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: petto 98-102 cm, fianchi 102-106 cm Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm Taglia XXXL: petto 110-114 cm, fianchi 114-118 cm.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 152050",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/899293.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-177500",
+    "name": "Pantaloncini da mare model 177500 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 32,
+    "originalPrice": 40,
+    "wholesalePrice": 19.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 15,
+    "description": "Pantaloncini da mare model 177500 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 177500",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Polyamid 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/971923.jpg",
+      "https://matterhorn-moda.it/pics_source/971924.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-157060",
+    "name": "Canottiera model 157060 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "T-shirt, magliette",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 28,
+    "description": "Simply Basic, maglietta bianca da uomo a fascia larga, n. 1480 di Henderson. Un vero classico che nessun uomo dovrebbe dimenticare. Adatta al corpo, elastica, realizzata con tecnologia Body Fit. Buona qualità e taglio sportivo collaudato. Ideale per i giorni caldi, buono come pigiama, abbigliamento per la casa o sotto un maglione. Universale e senza tempo.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 157060",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/912618.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-116217",
+    "name": "T-shirt model 116217 Henderson",
+    "subtitle": "T-shirt • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "T-shirt, magliette",
+    "price": 25,
+    "originalPrice": 31,
+    "wholesalePrice": 15.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 27,
+    "description": "Una maglietta da uomo versatile che dovresti avere nel tuo guardaroba. Il cotone, con un'aggiunta di elastan, va con quasi tutto. Se siete alla ricerca di un taglio perfetto e di comfort... ecco qualcosa per voi! Arioso e completamente semplice. La manica corta è un altro vantaggio.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 116217",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/325045.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-211659",
+    "name": "Pantaloncini da mare model 211659 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "description": "Pratici e comodi pantaloncini da bagno da uomo, ideali per la spiaggia, la piscina o per un'attiva vacanza sull'acqua. Realizzati in materiale ad asciugatura rapida, che garantisce comfort anche dopo essere usciti dall'acqua. Modello dotato di tasche ai lati e spacchi ai lati delle gambe, che aumentano la libertà di movimento e conferiscono un carattere sportivo. La fodera interna assicura comfort durante l'uso, mentre i lacci in vita permettono un adattamento individuale alla silhouette. I pantaloncini da bagno sono confezionati in un pratico sacchetto, rendendoli una scelta eccellente anche per viaggi e allenamenti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211659",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1074014.jpg",
+      "https://matterhorn-moda.it/pics_source/1074015.jpg",
+      "https://matterhorn-moda.it/pics_source/1074016.jpg"
+    ],
+    "colors": [
+      {
+        "name": "beige",
+        "hex": "#d2b48c"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-175824",
+    "name": "Pigiama model 175824 Henderson",
+    "subtitle": "Pigiama • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 33,
+    "originalPrice": 41,
+    "wholesalePrice": 20.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 28,
+    "description": "Pigiama model 175824 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 175824",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Tessuto Conforme Standard Europei",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/966646.jpg",
+      "https://matterhorn-moda.it/pics_source/966647.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-71074",
+    "name": "Boxer model 71074 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 29,
+    "description": "Set di due boxer da uomo dell'ultima collezione per la primavera-estate 2016. Liscio, sportivo, con gambe corte e alte fino alla coscia. Pannello della zona intima sagomato. L'elastico argentato in vita con il logo del produttore è molto attraente. Il colore è accattivante - alcuni sono turchesi, ipnotici, mega positivi. L'altro grafite, sommesso, elegante. Cotone morbido ed elastico. Semplicemente 2 in 1.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 71074",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/174977.jpg"
+    ],
+    "colors": [
+      {
+        "name": "azzurro",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-151521",
+    "name": "Boxer model 151521 Henderson",
+    "subtitle": "Boxer • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "description": "Comodi boxer da uomo cuciti con una maglia di cotone più scura, morbida e molto confortevole. Linea Henderson Premium. Una proposta che si riferisce alle ultime tendenze della moda intima, un sottile motivo a mosaico combinato con colori originali. Cintura elastica stampata in vita.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 151521",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/897613.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-152051",
+    "name": "completo model 152051 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 19,
+    "originalPrice": 24,
+    "wholesalePrice": 11.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 10,
+    "description": "Boxer da uomo nero e blu navy in un pacco da 2, da Henderson. Una linea dedicata agli uomini che cercano disegni interessanti in una disposizione sportiva per la primavera. Tessuto con un delicato motivo a mosaico. Elastico in vita in colore contrastante. Pannello anteriore sagomato, cotone di alta qualità.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 152051",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/899294.jpg",
+      "https://matterhorn-moda.it/pics_source/899295.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 11,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-177501",
+    "name": "Pantaloncini da mare model 177501 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 31,
+    "description": "Pantaloncini da mare model 177501 Henderson della linea ufficiale Henderson. Design elegante e raffinato confezionato con materiali scelti.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 177501",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Polyamid 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/971925.jpg",
+      "https://matterhorn-moda.it/pics_source/971926.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosa",
+        "hex": "#f472b6"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.904Z"
+  },
+  {
+    "id": "mh-224346",
+    "name": "completo model 224346 Henderson",
+    "subtitle": "completo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "wholesalePrice": 16.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 27,
+    "description": "Il set di due paia di boxer maschili in tonalità classiche di blu e blu scuro è l'ideale connubio tra comfort e stile moderno. Il modello con gamba più lunga garantisce una vestibilità migliore e un comfort duraturo senza doverla arrotolare o stringere. I boxer sono realizzati in tessuto morbido, traspirante e liscio, piacevole sulla pelle e che le permette di respirare. Il taglio aderente sottolinea la silhouette, garantendo al contempo piena libertà di movimento. L'ampia fascia con stampa in vita non solo tiene saldamente il capo intimo al suo posto, ma gli conferisce anche un carattere sportivo. Una scelta pratica e stilosa per tutti i giorni.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 224346",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 93 %, Spandex 7 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1113834.jpg",
+      "https://matterhorn-moda.it/pics_source/1113835.jpg",
+      "https://matterhorn-moda.it/pics_source/1113836.jpg",
+      "https://matterhorn-moda.it/pics_source/1113837.jpg",
+      "https://matterhorn-moda.it/pics_source/1113846.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXXL",
+      "XXXXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.905Z"
+  },
+  {
+    "id": "mh-157066",
+    "name": "Canottiera model 157066 Henderson",
+    "subtitle": "Canottiera • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "T-shirt, magliette",
+    "price": 13,
+    "originalPrice": 16,
+    "wholesalePrice": 7.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 17,
+    "description": "Un vero classico che nessun uomo dovrebbe dimenticare. Una maglietta aderente in cotone elasticizzato con tecnologia \"Body Fit\" senza maniche. Ottima qualità e un taglio sportivo collaudato. Ideale per i giorni caldi, indispensabile in palestra, buono sotto qualsiasi maglione. Universale e senza tempo. Composizione: 100% cotone.La maglietta assicura l'assorbimento dell'umidità verso l'esterno grazie all'uso di fibre traspiranti (Cotton System).",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 157066",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/912624.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#6b7280"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.905Z"
+  },
+  {
+    "id": "mh-116218",
+    "name": "T-shirt model 116218 Henderson",
+    "subtitle": "T-shirt • Brand Henderson",
+    "category": "donna",
+    "categoryName": "Abbigliamento Donna",
+    "subcategory": "T-shirt, magliette",
+    "price": 21,
+    "originalPrice": 26,
+    "wholesalePrice": 12.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 32,
+    "description": "Una maglietta da uomo versatile che dovresti avere nel tuo guardaroba. Il cotone, con un'aggiunta di elastan, va con quasi tutto. Se siete alla ricerca di un taglio perfetto e di comfort... ecco qualcosa per voi! Arioso e completamente semplice. La manica corta è un altro vantaggio.",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo: 116218",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/325046.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.905Z"
+  },
+  {
+    "id": "mh-186204",
+    "name": "Accappatoio da uomo model 186204 Henderson",
+    "subtitle": "Accappatoio da uomo • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Accappatoi, pigiami",
+    "price": 53,
+    "originalPrice": 66,
+    "wholesalePrice": 32.9,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 30,
+    "description": "L'accappatoio da uomo Undergo è un modello elegante nei colori bordeaux e blu navy. Il tessuto morbido e felpato avvolge piacevolmente il corpo e protegge dal freddo. Vi garantirà comfort al mattino e alla sera, oltre che dopo il bagno. L'accappatoio Undergo è inoltre dotato di un'ampia fascia in vita in tessuto per poterlo regolare in base alle vostre esigenze. Un ulteriore comfort è garantito dalle due tasche sul davanti. Dimensioni: Taglia M: petto 94-98 cm, fianchi 98-102 cm . Taglia L: torace 98-102 cm, fianchi 102-106 cm . Taglia XL: petto 102-106 cm, fianchi 106-110 cm Taglia XXL: petto 106-110 cm, fianchi 110-114 cm",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Accappatoi, pigiami",
+      "Codice articolo: 186204",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/997317.jpg",
+      "https://matterhorn-moda.it/pics_source/997318.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.905Z"
+  },
+  {
+    "id": "mh-211660",
+    "name": "Pantaloncini da mare model 211660 Henderson",
+    "subtitle": "Pantaloncini da mare • Brand Henderson",
+    "category": "uomo",
+    "categoryName": "Moda Uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 29,
+    "originalPrice": 36,
+    "wholesalePrice": 17.9,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "description": "Costumi da bagno da uomo moderni che uniscono comfort e stile alla moda. Dotati di elastico in vita e coulisse in vita, che permettono di adattarli perfettamente alla silhouette. Le tasche ai lati aggiungono funzionalità, mentre i dettagli a contrasto sulle gambe conferiscono un carattere sportivo complessivo. La fodera garantisce comfort, mentre l'inclusione di una custodia li rende pratici per i viaggi e facili da riporre. Scelta ideale per la spiaggia, la piscina o per un relax attivo vicino all'acqua!",
+    "details": [
+      "Brand: Henderson",
+      "Categoria fornitore: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo: 211660",
+      "Fornitore: Matterhorn Moda B2B",
+      "Spedizione rapida da magazzino centrale europeo"
+    ],
+    "composition": "Poliestere 100 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Henderson)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1074017.jpg",
+      "https://matterhorn-moda.it/pics_source/1074018.jpg",
+      "https://matterhorn-moda.it/pics_source/1074019.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Henderson",
+    "importedFrom": "https://matterhorn-moda.it/xmldata/products_full.php?type=xml",
+    "importedAt": "2026-10-14T10:50:08.905Z"
+  },
+  {
+    "id": "mh-179276",
+    "name": "completo model 179276 DKaren",
+    "subtitle": "completo • Brand DKaren (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Pantaloni, pantaloncini da donna",
+    "price": 72,
+    "originalPrice": 90,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 26,
+    "description": "completo model 179276 DKaren realizzato con cura dal brand DKaren. Design elegante e raffinato con vestibilità confortevole.",
+    "details": [
+      "Brand originale: DKaren",
+      "Categoria catalogo: /Per Lei/Moda da donna/Pantaloni, pantaloncini da donna",
+      "Codice articolo fornitore: 179276",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (DKaren)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/976954.jpg",
+      "https://matterhorn-moda.it/pics_source/976955.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosa",
+        "hex": "#f472b6"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 9,
+    "outfitSlot": "bottom",
+    "brand": "DKaren",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-179446",
+    "name": "completo model 179446 DKaren",
+    "subtitle": "completo • Brand DKaren (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Pantaloni, pantaloncini da donna",
+    "price": 65,
+    "originalPrice": 81,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 25,
+    "description": "completo model 179446 DKaren realizzato con cura dal brand DKaren. Design elegante e raffinato con vestibilità confortevole.",
+    "details": [
+      "Brand originale: DKaren",
+      "Categoria catalogo: /Per Lei/Moda da donna/Pantaloni, pantaloncini da donna",
+      "Codice articolo fornitore: 179446",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Lycra 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (DKaren)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/977586.jpg",
+      "https://matterhorn-moda.it/pics_source/977587.jpg"
+    ],
+    "colors": [
+      {
+        "name": "verde",
+        "hex": "#15803d"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "bottom",
+    "brand": "DKaren",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-179268",
+    "name": "Vestito da giorno model 179268 DKaren",
+    "subtitle": "Vestito da giorno • Brand DKaren (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Vestiti da giorno",
+    "price": 38,
+    "originalPrice": 48,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 36,
+    "description": "Vestito da giorno model 179268 DKaren realizzato con cura dal brand DKaren. Design elegante e raffinato con vestibilità confortevole.",
+    "details": [
+      "Brand originale: DKaren",
+      "Categoria catalogo: /Per Lei/Moda da donna/Vestiti/Vestiti da giorno",
+      "Codice articolo fornitore: 179268",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Lycra 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (DKaren)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/976942.jpg",
+      "https://matterhorn-moda.it/pics_source/976943.jpg"
+    ],
+    "colors": [
+      {
+        "name": "giallo",
+        "hex": "#eab308"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "DKaren",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-179269",
+    "name": "completo model 179269 DKaren",
+    "subtitle": "completo • Brand DKaren (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Pantaloni, pantaloncini da donna",
+    "price": 69,
+    "originalPrice": 86,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 12,
+    "description": "completo model 179269 DKaren realizzato con cura dal brand DKaren. Design elegante e raffinato con vestibilità confortevole.",
+    "details": [
+      "Brand originale: DKaren",
+      "Categoria catalogo: /Per Lei/Moda da donna/Pantaloni, pantaloncini da donna",
+      "Codice articolo fornitore: 179269",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Lycra 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (DKaren)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/976944.jpg",
+      "https://matterhorn-moda.it/pics_source/976945.jpg"
+    ],
+    "colors": [
+      {
+        "name": "marrone",
+        "hex": "#78350f"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "stock": 5,
+    "outfitSlot": "bottom",
+    "brand": "DKaren",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-179270",
+    "name": "completo model 179270 DKaren",
+    "subtitle": "completo • Brand DKaren (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Pantaloni, pantaloncini da donna",
+    "price": 69,
+    "originalPrice": 86,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 35,
+    "description": "completo model 179270 DKaren realizzato con cura dal brand DKaren. Design elegante e raffinato con vestibilità confortevole.",
+    "details": [
+      "Brand originale: DKaren",
+      "Categoria catalogo: /Per Lei/Moda da donna/Pantaloni, pantaloncini da donna",
+      "Codice articolo fornitore: 179270",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Lycra 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (DKaren)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/977536.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "s",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "bottom",
+    "brand": "DKaren",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-135002",
+    "name": "Top model 135002 Eldar",
+    "subtitle": "Top • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Cannottiere, top",
+    "price": 16,
+    "originalPrice": 20,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 32,
+    "description": "Chemise liscia ed elegante con spalline in pizzo. Delicata scollatura a V con belle finiture in pizzo. Una grande proposta sia con i jeans che come base sotto camicette o maglioni.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Top, magliette, canottiere/Cannottiere, top",
+      "Codice articolo fornitore: 135002",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/853507.jpg",
+      "https://matterhorn-moda.it/pics_source/853508.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 9,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-144046",
+    "name": "Maglia model 144046 Eldar",
+    "subtitle": "Maglia • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Magliette, tuniche",
+    "price": 17,
+    "originalPrice": 21,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 20,
+    "description": "Una camicetta affascinante e liscia con maniche corte e un invitante spacco sul retro. La parte superiore è accentuata da un piccolo e dolce fiocco di raso. Tessuto morbido e di alta qualità.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Magliette, tuniche",
+      "Codice articolo fornitore: 144046",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 5 %, Viscosa 95 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/877663.jpg",
+      "https://matterhorn-moda.it/pics_source/877664.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 8,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-133505",
+    "name": "Top model 133505 Eldar",
+    "subtitle": "Top • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Cannottiere, top",
+    "price": 17,
+    "originalPrice": 21,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "description": "Camicetta da donna di tipo boxer della collezione Fit by Eldar, che tenta con interessanti spalline. Nella parte posteriore sotto forma di una singola striscia, sembra molto interessante. Tagliare un po' più a lungo. La camicetta ha dei tagli più profondi sotto le braccia e può essere indossata anche come complemento al top sportivo.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Top, magliette, canottiere/Cannottiere, top",
+      "Codice articolo fornitore: 133505",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 14 %, Poliestere 86 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/849445.jpg",
+      "https://matterhorn-moda.it/pics_source/849446.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#6b7280"
+      }
+    ],
+    "sizes": [
+      "s",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-135012",
+    "name": "Maglia model 135012 Eldar",
+    "subtitle": "Maglia • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Magliette, tuniche",
+    "price": 17,
+    "originalPrice": 21,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 43,
+    "description": "Una camicetta che può essere indossata con molti abiti. Caratterizzato da una scollatura classica e molto femminile, un tessuto di cotone morbido e comode maniche corte.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Magliette, tuniche",
+      "Codice articolo fornitore: 135012",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/853520.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "S"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-178592",
+    "name": "T-shirt model 178592 Eldar",
+    "subtitle": "T-shirt • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Cannottiere, top",
+    "price": 19,
+    "originalPrice": 24,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 19,
+    "description": "T-shirt model 178592 Eldar realizzato con cura dal brand Eldar. Design elegante e raffinato con vestibilità confortevole.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Top, magliette, canottiere/Cannottiere, top",
+      "Codice articolo fornitore: 178592",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 5 %, Viscosa 95 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/975051.jpg",
+      "https://matterhorn-moda.it/pics_source/975052.jpg"
+    ],
+    "colors": [
+      {
+        "name": "blu",
+        "hex": "#1e40af"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-133506",
+    "name": "Top model 133506 Eldar",
+    "subtitle": "Top • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Cannottiere, top",
+    "price": 19,
+    "originalPrice": 24,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 11,
+    "description": "Camicetta da donna di tipo boxer della collezione Fit by Eldar, che tenta con interessanti spalline. Nella parte posteriore sotto forma di una singola striscia, sembra molto interessante. Tagliare un po' più a lungo. La camicetta ha dei tagli più profondi sotto le braccia e può essere indossata anche come complemento al top sportivo.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Top, magliette, canottiere/Cannottiere, top",
+      "Codice articolo fornitore: 133506",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 14 %, Poliestere 86 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/849447.jpg",
+      "https://matterhorn-moda.it/pics_source/849448.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XL"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-146025",
+    "name": "Maglia model 146025 Eldar",
+    "subtitle": "Maglia • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Magliette, tuniche",
+    "price": 16,
+    "originalPrice": 20,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 32,
+    "description": "Camicetta alla moda decorata con cinghie di gomma argentata, sotto forma di spalline decorative e scintillanti. Perfetto con i jeans, ispirato allo stile glam. Cotone morbido ed elastico in un delicato gessato bianco e nero.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Magliette, tuniche",
+      "Codice articolo fornitore: 146025",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/883300.jpg",
+      "https://matterhorn-moda.it/pics_source/883301.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XL"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-133508",
+    "name": "Top model 133508 Eldar",
+    "subtitle": "Top • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Cannottiere, top",
+    "price": 22,
+    "originalPrice": 28,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 23,
+    "description": "Interessante camicetta della collezione Fit di Eldar, con un inserto trasparente (rete, tulle nero) posto sia sulla schiena che intorno alle spalline. Tagliato con tagli più profondi sotto le braccia, funzionerà anche come complemento a un top sportivo. Grande colore femminile.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Top, magliette, canottiere/Cannottiere, top",
+      "Codice articolo fornitore: 133508",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 14 %, Poliestere 86 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/849451.jpg",
+      "https://matterhorn-moda.it/pics_source/849452.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosa",
+        "hex": "#f472b6"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 3,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-135017",
+    "name": "Body model 135017 Eldar",
+    "subtitle": "Body • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Body",
+    "price": 21,
+    "originalPrice": 26,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 10,
+    "description": "Un body in cotone liscio che completerà perfettamente i vostri jeans, diventerà una grande alternativa a una camicetta e allo stesso tempo sarà utile per il vostro esercizio mattutino. Ottima qualità, cotone morbido ed elastico.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Body",
+      "Codice articolo fornitore: 135017",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 95 %, Spandex 5 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/853526.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-133510",
+    "name": "Maglia model 133510 Eldar",
+    "subtitle": "Maglia • Brand Eldar (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Magliette, tuniche",
+    "price": 21,
+    "originalPrice": 26,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 17,
+    "description": "Elegante camicetta della collezione Fit by Eldar, completamente tinta unita sul davanti, mentre la parte posteriore è decorata con un'ampia parte di tulle a rete con effetto see-through. Maniche corte, una bella scollatura a mandorla e un taglio ampio favoriranno il vostro comfort.",
+    "details": [
+      "Brand originale: Eldar",
+      "Categoria catalogo: /Per Lei/Moda da donna/Camice, magliette/Magliette, tuniche",
+      "Codice articolo fornitore: 133510",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 14 %, Poliestere 86 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Eldar)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/849455.jpg",
+      "https://matterhorn-moda.it/pics_source/849456.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#6b7280"
+      }
+    ],
+    "sizes": [
+      "s",
+      "M",
+      "L"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Eldar",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-231019",
+    "name": "Reggiseno imbottito model 231019 Róża",
+    "subtitle": "Reggiseno imbottito • Brand Róża (Matterhorn Moda)",
+    "category": "intimo",
+    "subcategory": "Push Up",
+    "price": 29,
+    "originalPrice": 36,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 18,
+    "description": "Il reggiseno imbottito Flossy Me è un modello elegante che unisce una finitura femminile e accattivante con il comfort e il supporto stabile del seno. Le coppe imbottite modellano delicatamente il seno, conferendogli una forma più piena e arrotondata e allo stesso tempo sottolineano bellamente la linea del décolleté. L'accostamento di pizzo delicato con tulle trasparente crea un effetto sensuale e estremamente femminile. I dettagli curati conferiscono al modello un carattere eccezionale. Il pizzo scorre dolcemente dalle coppe sulle spalline, mentre fiocchi di raso delicati completano il tutto. Il retro liscio garantisce comfort durante l'uso, mentre le spalline regolabili consentono di adattare facilmente il reggiseno alla silhouette. La struttura rinforzata assicura il giusto supporto e aiuta a ingrandire e modellare otticamente il seno. Questo modello si adatta particolarmente bene a seni piccoli e medi, offrendo un effetto più pieno, arrotondato e un décolleté attraente. Il bianco classico conferisce al reggiseno un carattere senza tempo e consente di abbinarlo facilmente agli altri capi di biancheria intima. Flossy Me si adatta perfettamente sia come biancheria intima comoda per tutti i giorni, sia come scelta elegante per occasioni speciali.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Reggiseni/Push Up",
+      "Codice articolo fornitore: 231019",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 5 %, Spandex 10 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1135401.jpg",
+      "https://matterhorn-moda.it/pics_source/1135402.jpg",
+      "https://matterhorn-moda.it/pics_source/1135403.jpg",
+      "https://matterhorn-moda.it/pics_source/1135404.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "65D",
+      "65E",
+      "65F",
+      "65H",
+      "65J",
+      "70D"
+    ],
+    "stock": 7,
+    "outfitSlot": "top",
+    "brand": "Róża",
+    "categoryName": "Intimo & Lingerie"
+  },
+  {
+    "id": "mh-231035",
+    "name": "Soft model 231035 Róża",
+    "subtitle": "Soft • Brand Róża (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Soft, Semi-Soft",
+    "price": 29,
+    "originalPrice": 36,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 10,
+    "description": "Il reggiseno soft Ljufu è un modello classico che unisce un aspetto femminile al comfort di vestibilità. Realizzato con un ricamo decorativo e una maglia stabile leggermente elastica, garantisce un adeguato supporto al seno. La maglia stabile utilizzata sotto le coppe e sui lati della costruzione aiuta a mantenere il seno nella giusta posizione, garantendo al contempo comfort durante l'uso quotidiano. Ulteriore fodera sotto il seno e nella parte delle coppe realizzata in morbido cotone. Lo strato naturale a contatto con la pelle aumenta il comfort, riduce il rischio di sfregamenti e consente alla pelle di respirare liberamente. Il modello non ha stecche laterali, quindi la costruzione rimane comoda e non causa sensazione di compressione. I tiranti sono cuciti fissi e dotati di regolazione, consentendo un adattamento individuale della loro lunghezza alla silhouette. Ljufu è una proposta per le donne che cercano biancheria intima comoda e pratica con un elegante design, perfetta per l'uso quotidiano.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Reggiseni/Soft, Semi-Soft",
+      "Codice articolo fornitore: 231035",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 5 %, Spandex 10 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1135460.jpg",
+      "https://matterhorn-moda.it/pics_source/1135461.jpg",
+      "https://matterhorn-moda.it/pics_source/1135462.jpg",
+      "https://matterhorn-moda.it/pics_source/1135463.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "65G",
+      "65J",
+      "80I",
+      "85E",
+      "85I",
+      "90G"
+    ],
+    "stock": 5,
+    "outfitSlot": "top",
+    "brand": "Róża",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-231051",
+    "name": "Culotte model 231051 Róża",
+    "subtitle": "Culotte • Brand Róża (Matterhorn Moda)",
+    "category": "intimo",
+    "subcategory": "Culotte",
+    "price": 9,
+    "originalPrice": 11,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 38,
+    "description": "I figli femminili Pure Promise N. 19 sono un modello classico realizzato in cotone di alta qualità, che unisce il comfort dell'indossare quotidiano con una sottile estetica femminile. Il davanti liscio conferisce loro un carattere minimalista e senza tempo, il che li rende perfetti come comoda base per il guardaroba quotidiano. Il retro del figlio è splendidamente decorato con delicato pizzo, che conferisce al lingerie un carattere sensuale e mette in risalto splendidamente le forme femminili. Nella parte superiore è stata aggiunta un'inserto in materiale che arricchisce il modello e aiuta a garantire un comodo adattamento alla silhouette. Pure Promise N. 19 è una proposta ideale per le donne che apprezzano la combinazione di materiali morbidi e confortevoli con dettagli eleganti. Il modello si adatterà sia per l'uso quotidiano che come elemento sottile di lingerie più speciale.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Culotte/Culotte",
+      "Codice articolo fornitore: 231051",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 92 %, Spandex 8 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1135516.jpg",
+      "https://matterhorn-moda.it/pics_source/1135517.jpg",
+      "https://matterhorn-moda.it/pics_source/1135518.jpg",
+      "https://matterhorn-moda.it/pics_source/1135519.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "2XL"
+    ],
+    "stock": 4,
+    "outfitSlot": "bottom",
+    "brand": "Róża",
+    "categoryName": "Intimo & Lingerie"
+  },
+  {
+    "id": "mh-231067",
+    "name": "Culotte model 231067 Róża",
+    "subtitle": "Culotte • Brand Róża (Matterhorn Moda)",
+    "category": "intimo",
+    "subcategory": "Culotte",
+    "price": 9,
+    "originalPrice": 11,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 35,
+    "description": "I pantaloni da donna Pure Promise Nr 33 sono un modello classico nel colore nero senza tempo, che combina il comfort del morbido cotone con un delicato e femminile finitura. La vita alta garantisce una vestibilità comoda sulla silhouette, avvolgendo delicatamente la zona della vita e dell'addome. Il tessuto liscio in cotone è arricchito da eleganti inserti di pizzo posizionati sui lati e sul retro. I dettagli decorativi conferiscono ai pantaloni leggerezza e carattere elegante, mantenendo il loro aspetto classico. Il cotone morbido è piacevole al tatto e garantisce una corretta traspirabilità durante l'uso quotidiano. Le finiture elastiche e il taglio attentamente progettato fanno sì che la biancheria intima si adatti bene al corpo, senza causare eccessiva compressione e consentendo libertà di movimento. Pure Promise Nr 33 è una proposta versatile per le donne che apprezzano la biancheria intima classica con un delicato accento di pizzo e un comodo taglio a vita alta.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Culotte/Culotte",
+      "Codice articolo fornitore: 231067",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 92 %, Spandex 8 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1135571.jpg",
+      "https://matterhorn-moda.it/pics_source/1135572.jpg",
+      "https://matterhorn-moda.it/pics_source/1135573.jpg",
+      "https://matterhorn-moda.it/pics_source/1135574.jpg",
+      "https://matterhorn-moda.it/pics_source/1135575.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "L",
+      "2XL"
+    ],
+    "stock": 7,
+    "outfitSlot": "bottom",
+    "brand": "Róża",
+    "categoryName": "Intimo & Lingerie"
+  },
+  {
+    "id": "mh-231085",
+    "name": "Push up model 231085 Róża",
+    "subtitle": "Push up • Brand Róża (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Push Up",
+    "price": 27,
+    "originalPrice": 34,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 10,
+    "description": "Il reggiseno push-up Newia è un modello femminile con stecche, che enfatizza il seno in modo impressionante e dona al décolleté una bellissima forma modellata. Le coppe interne sono rifinite con morbido cotone e dotate di tasche per inserti aggiuntivi per l'ingrandimento, in modo da poter adattare individualmente l'effetto modellante. L'intero reggiseno è coperto da un'elegante pizzo, che conferisce al reggiseno un carattere sensuale ed elegante. La costruzione push-up solleva ed esalta il seno, sottolineando le forme femminili. Le spalline decorative non rimovibili con possibilità di regolazione consentono un comodo adattamento alla silhouette. Le stecche garantiscono un supporto stabile, mentre la costruzione adeguatamente progettata garantisce comfort durante l'uso. Newia è una scelta eccellente per le donne che cercano una combinazione di un aspetto impressionante, pizzo femminile e soluzioni funzionali per enfatizzare il seno.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Reggiseni/Push Up",
+      "Codice articolo fornitore: 231085",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 5 %, Spandex 10 %, Polyamid 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1135632.jpg",
+      "https://matterhorn-moda.it/pics_source/1135633.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "70B",
+      "70C",
+      "80D"
+    ],
+    "stock": 4,
+    "outfitSlot": "top",
+    "brand": "Róża",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-231105",
+    "name": "Culotte model 231105 Róża",
+    "subtitle": "Culotte • Brand Róża (Matterhorn Moda)",
+    "category": "intimo",
+    "subcategory": "Culotte",
+    "price": 13,
+    "originalPrice": 16,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 33,
+    "description": "Alto slip da donna tipo boxer Gizela è un modello elegante e femminile che combina il comfort della vestibilità ampia con un elegante finitura in pizzo. Il tutto è realizzato in un delicato pizzo decorato con motivi floreali, conferendo all'intimo un carattere romantico e delicato. La vita alta garantisce una buona vestibilità alla silhouette e accentua splendidamente la sua linea, mentre il fiocco decorativo posto sul retro aggiunge un tocco decorativo incantevole. Gizela è una proposta eccellente per le donne che apprezzano il comfort, il pizzo elegante e i dettagli femminili.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Culotte/Culotte",
+      "Codice articolo fornitore: 231105",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 5 %, Spandex 20 %, Polyamid 75 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1135692.jpg",
+      "https://matterhorn-moda.it/pics_source/1135693.jpg",
+      "https://matterhorn-moda.it/pics_source/1135694.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "L"
+    ],
+    "stock": 3,
+    "outfitSlot": "bottom",
+    "brand": "Róża",
+    "categoryName": "Intimo & Lingerie"
+  },
+  {
+    "id": "mh-231121",
+    "name": "Culotte model 231121 Róża",
+    "subtitle": "Culotte • Brand Róża (Matterhorn Moda)",
+    "category": "intimo",
+    "subcategory": "Culotte",
+    "price": 14,
+    "originalPrice": 18,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 21,
+    "description": "Ultra femminili slip in pizzo FollowME incantano con un elegante e sensuale finitura. Sul davanti il modello è decorato con un inserto semitrasparente in tulle delicato, che sottolinea delicatamente il carattere femminile della biancheria intima. Il retro è interamente realizzato in un pizzo suggestivo, e una decorativa lacrima posta nella parte superiore rappresenta un dettaglio unico. Una proposta elegante per le donne che apprezzano finiture romantiche e accattivanti.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Culotte/Culotte",
+      "Codice articolo fornitore: 231121",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 5 %, Spandex 20 %, Polyamid 75 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1135744.jpg",
+      "https://matterhorn-moda.it/pics_source/1135745.jpg",
+      "https://matterhorn-moda.it/pics_source/1135746.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "s",
+      "M",
+      "XL"
+    ],
+    "stock": 8,
+    "outfitSlot": "bottom",
+    "brand": "Róża",
+    "categoryName": "Intimo & Lingerie"
+  },
+  {
+    "id": "mh-231208",
+    "name": "Culotte model 231208 Róża",
+    "subtitle": "Culotte • Brand Róża (Matterhorn Moda)",
+    "category": "intimo",
+    "subcategory": "Culotte",
+    "price": 11,
+    "originalPrice": 14,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 34,
+    "description": "Sensuali slip di Idris realizzati in un materiale leggero e trasparente, decorato con eleganti inserti in pizzo. La delicata finitura sottolinea il carattere femminile del modello e gli conferisce un aspetto seducente in modo sottile.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Culotte/Culotte",
+      "Codice articolo fornitore: 231208",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone & Fibre Nobili Certificate",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1136024.jpg",
+      "https://matterhorn-moda.it/pics_source/1136025.jpg",
+      "https://matterhorn-moda.it/pics_source/1136026.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 7,
+    "outfitSlot": "bottom",
+    "brand": "Róża",
+    "categoryName": "Intimo & Lingerie"
+  },
+  {
+    "id": "mh-231820",
+    "name": "Push up model 231820 Róża",
+    "subtitle": "Push up • Brand Róża (Matterhorn Moda)",
+    "category": "donna",
+    "subcategory": "Push Up",
+    "price": 29,
+    "originalPrice": 36,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 34,
+    "description": "Il reggiseno push-up in elegante pizzo Sefia incanta con il suo aspetto femminile e dettagli di design. La chiusura posizionata davanti facilita l'indossamento e la comoda vestibilità del modello. Il reggiseno ha coppe con supporti. Le spalline regolabili si uniscono sul retro, creando una struttura decorativa sottolineata da delicato pizzo. Il tutto è completato da un fiocco decorativo che conferisce al reggiseno un carattere sottile e romantico.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Reggiseni/Push Up",
+      "Codice articolo fornitore: 231820",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone & Fibre Nobili Certificate",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1137943.jpg",
+      "https://matterhorn-moda.it/pics_source/1137944.jpg"
+    ],
+    "colors": [
+      {
+        "name": "bianco",
+        "hex": "#fdfbf7"
+      }
+    ],
+    "sizes": [
+      "70A"
+    ],
+    "stock": 6,
+    "outfitSlot": "top",
+    "brand": "Róża",
+    "categoryName": "Abbigliamento Donna"
+  },
+  {
+    "id": "mh-231837",
+    "name": "Culotte model 231837 Róża",
+    "subtitle": "Culotte • Brand Róża (Matterhorn Moda)",
+    "category": "intimo",
+    "subcategory": "Culotte",
+    "price": 14,
+    "originalPrice": 18,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 41,
+    "description": "Elegante mutandine panty Sefia incantano con la loro silhouette femminile e la finitura elegante. Realizzate interamente in un ricco pizzo sensuale, conferiscono all'intimo un carattere eccezionale. Il retro è decorato con un taglio decorativo, che sottolinea l'originalità del modello e aggiunge un tocco sottilmente sensuale. Sefia è una proposta per le donne che apprezzano biancheria intima elegante con dettagli d'effetto.",
+    "details": [
+      "Brand originale: Róża",
+      "Categoria catalogo: /Per Lei/Intimo da donna/Culotte/Culotte",
+      "Codice articolo fornitore: 231837",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Cotone 5 %, Spandex 20 %, Poliammide 75 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Róża)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1137988.jpg",
+      "https://matterhorn-moda.it/pics_source/1137989.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "s"
+    ],
+    "stock": 6,
+    "outfitSlot": "bottom",
+    "brand": "Róża",
+    "categoryName": "Intimo & Lingerie"
+  },
+  {
+    "id": "mh-230084",
+    "name": "Slip model 230084 Obsessive",
+    "subtitle": "Slip • Brand Obsessive (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 11,
+    "originalPrice": 14,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 33,
+    "description": "I boxer rossi Boldero sono un mix di taglio classico e design moderno. Il colore rosso intenso e deciso attira l'attenzione e sottolinea la sicurezza in sé stessi, mentre il taglio senza tempo garantisce comfort sia per il giorno che per occasioni speciali. Il materiale morbido ed elastico si adatta perfettamente alla silhouette, garantendo libertà di movimento e comfort. Il pannello posteriore del modello è completato da un delicato pannello semitrasparente che conferisce leggerezza e carattere originale all'intimo. La larga cintura in vita garantisce una vestibilità stabile, mantenendo i boxer al loro posto per tutta la giornata. Boldero è una proposta per gli uomini che apprezzano l'eleganza minimalista, ma che vogliono anche distinguersi con un colore audace e dettagli moderni.",
+    "details": [
+      "Brand originale: Obsessive",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 230084",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Obsessive)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1132366.jpg",
+      "https://matterhorn-moda.it/pics_source/1132367.jpg",
+      "https://matterhorn-moda.it/pics_source/1132368.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "stock": 11,
+    "outfitSlot": "bottom",
+    "brand": "Obsessive",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-230085",
+    "name": "Boxer model 230085 Obsessive",
+    "subtitle": "Boxer • Brand Obsessive (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 11,
+    "originalPrice": 14,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.8,
+    "reviewCount": 36,
+    "description": "I boxer rossi Boldero sono una combinazione di stile moderno, comfort e carattere deciso. L'intenso colore rosso attira l'attenzione, mentre il taglio aderente mette in risalto la silhouette maschile. Realizzati in tessuto morbido ed elastico, garantiscono comfort e libertà di movimento per l'intera giornata. Il retro dei boxer è arricchito da un pannello sottile e semitrasparente, che conferisce leggerezza e un tocco sensuale al modello. La larga fascia in vita assicura una vestibilità stabile, mantenendo la biancheria intima al suo posto senza stringere. Boldero è la scelta ideale per gli uomini che cercano biancheria intima che unisca design minimalista, colore audace e dettagli moderni.",
+    "details": [
+      "Brand originale: Obsessive",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 230085",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 15 %, Poliammide 85 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Obsessive)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/1132369.jpg",
+      "https://matterhorn-moda.it/pics_source/1132370.jpg",
+      "https://matterhorn-moda.it/pics_source/1132371.jpg",
+      "https://matterhorn-moda.it/pics_source/1132372.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "stock": 10,
+    "outfitSlot": "bottom",
+    "brand": "Obsessive",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181801",
+    "name": "Boxer model 181801 Anais",
+    "subtitle": "Boxer • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 32,
+    "originalPrice": 40,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 5,
+    "reviewCount": 23,
+    "description": "Boxer da uomo dal taglio sportivo in tessuto di alta qualità. Gambe più lunghe. Vestibilità perfetta.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 181801",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984547.jpg",
+      "https://matterhorn-moda.it/pics_source/984548.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 6,
+    "outfitSlot": "bottom",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181802",
+    "name": "Slip model 181802 Anais",
+    "subtitle": "Slip • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 30,
+    "description": "Slip da uomo follemente eleganti in stampa leopardata rossa, si adattano perfettamente a ogni uomo. Seduzione di buon gusto, garantita.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 181802",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984549.jpg",
+      "https://matterhorn-moda.it/pics_source/984550.jpg"
+    ],
+    "colors": [
+      {
+        "name": "rosso",
+        "hex": "#dc2626"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "bottom",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181803",
+    "name": "Slip model 181803 Anais",
+    "subtitle": "Slip • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 11,
+    "description": "Slip da uomo sexy e unici. Sono realizzati con materiali di altissima qualità. Il taglio perfetto garantisce il massimo comfort. Vita elastica ampia, morbida e confortevole.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 181803",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984551.jpg",
+      "https://matterhorn-moda.it/pics_source/984552.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 4,
+    "outfitSlot": "bottom",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181804",
+    "name": "Slip model 181804 Anais",
+    "subtitle": "Slip • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 41,
+    "description": "Sexy slip da uomo in materiale di alta qualità. Il taglio perfetto garantisce il comfort di utilizzo. Vita elastica ampia, confortevole e morbida.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 181804",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984553.jpg",
+      "https://matterhorn-moda.it/pics_source/984554.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 3,
+    "outfitSlot": "bottom",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181806",
+    "name": "Slip model 181806 Anais",
+    "subtitle": "Slip • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.6,
+    "reviewCount": 15,
+    "description": "Sexy slip da uomo in materiale di alta qualità. Il taglio perfetto garantisce il comfort di utilizzo. Vita elastica ampia, confortevole e morbida.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 181806",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984557.jpg",
+      "https://matterhorn-moda.it/pics_source/984558.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 8,
+    "outfitSlot": "bottom",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181807",
+    "name": "Slip model 181807 Anais",
+    "subtitle": "Slip • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 21,
+    "originalPrice": 26,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 18,
+    "description": "Slip da uomo Banana con motivo a banana e bocca. Gli slip sono realizzati con materiali di alta qualità.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 181807",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984559.jpg",
+      "https://matterhorn-moda.it/pics_source/984560.jpg"
+    ],
+    "colors": [
+      {
+        "name": "multicolore",
+        "hex": "#3b3b3b"
+      }
+    ],
+    "sizes": [
+      "XXL"
+    ],
+    "stock": 9,
+    "outfitSlot": "bottom",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181808",
+    "name": "Slip model 181808 Anais",
+    "subtitle": "Slip • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "Boxer, slip, costume da bagno",
+    "price": 27,
+    "originalPrice": 34,
+    "isNew": true,
+    "isBestSeller": false,
+    "isSale": true,
+    "rating": 4.9,
+    "reviewCount": 43,
+    "description": "Slip da uomo follemente eleganti in un classico motivo a scacchi, che si adattano perfettamente a ogni uomo. Seduzione di buon gusto, garantita.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/Boxer, slip, costume da bagno",
+      "Codice articolo fornitore: 181808",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984561.jpg",
+      "https://matterhorn-moda.it/pics_source/984562.jpg"
+    ],
+    "colors": [
+      {
+        "name": "grigio",
+        "hex": "#6b7280"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "stock": 5,
+    "outfitSlot": "bottom",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  },
+  {
+    "id": "mh-181783",
+    "name": "Canottiera model 181783 Anais",
+    "subtitle": "Canottiera • Brand Anais (Matterhorn Moda)",
+    "category": "uomo",
+    "subcategory": "T-shirt, magliette",
+    "price": 33,
+    "originalPrice": 41,
+    "isNew": true,
+    "isBestSeller": true,
+    "isSale": true,
+    "rating": 4.7,
+    "reviewCount": 18,
+    "description": "T-shirt senza spalline con profondi e comodi cut-out. Perfetta aderenza al corpo.",
+    "details": [
+      "Brand originale: Anais",
+      "Categoria catalogo: /PER LUI/Intimo da uomo/T-shirt, magliette",
+      "Codice articolo fornitore: 181783",
+      "Fornito tramite feed XML Matterhorn Moda B2B",
+      "Garanzia di qualità conforme standard UE"
+    ],
+    "composition": "Spandex 20 %, Polyamid 80 %",
+    "careInstructions": "Lavaggio a 30°C programma delicato, stirare a bassa temperatura",
+    "madeIn": "Unione Europea (Anais)",
+    "images": [
+      "https://matterhorn-moda.it/pics_source/984511.jpg",
+      "https://matterhorn-moda.it/pics_source/984512.jpg"
+    ],
+    "colors": [
+      {
+        "name": "nero",
+        "hex": "#18181b"
+      }
+    ],
+    "sizes": [
+      "M",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "stock": 10,
+    "outfitSlot": "top",
+    "brand": "Anais",
+    "categoryName": "Moda Uomo"
+  }
+];

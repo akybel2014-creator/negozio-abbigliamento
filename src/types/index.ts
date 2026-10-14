@@ -1,4 +1,4 @@
-export type ProductCategory = 'tutti' | 'donna' | 'uomo' | 'accessori' | 'saldi';
+export type ProductCategory = 'tutti' | 'donna' | 'intimo' | 'uomo' | 'accessori' | 'scarpe' | 'costumi' | 'saldi';
 
 export type ProductSize = 
   | 'XS' | 'S' | 'M' | 'L' | 'XL' | 'XXL'
@@ -16,7 +16,8 @@ export interface Product {
   id: string;
   name: string;
   subtitle: string;
-  category: 'donna' | 'uomo' | 'accessori';
+  category: string;
+  categoryName?: string;
   subcategory: string;
   price: number;
   originalPrice?: number;
@@ -32,9 +33,14 @@ export interface Product {
   madeIn: string;
   images: string[];
   colors: ProductColor[];
-  sizes: ProductSize[];
+  sizes: (ProductSize | string)[];
   stock: number;
   outfitSlot: OutfitSlot;
+  brand?: string;
+  wholesalePrice?: number;
+  importedFrom?: string;
+  importedAt?: string;
+  categoryPath?: string;
 }
 
 export interface CartItem {
@@ -50,10 +56,11 @@ export interface FilterState {
   subcategory: string | null;
   search: string;
   maxPrice: number;
-  selectedSize: ProductSize | null;
+  selectedSize: (ProductSize | string) | null;
   sortBy: 'featured' | 'price-asc' | 'price-desc' | 'newest' | 'rating';
   onSaleOnly: boolean;
   material: string | null;
+  selectedBrand: string | null;
 }
 
 export interface OrderDetails {

@@ -1,8 +1,7 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { Header } from './components/Header';
-import { Hero } from './components/Hero';
-import { ProductCard } from './components/ProductCard';
-import { FilterBar } from './components/FilterBar';
+import { HomePage } from './components/HomePage';
+import { ShopPage } from './components/ShopPage';
 import { ProductDetailModal } from './components/ProductDetailModal';
 import { SizeGuideModal } from './components/SizeGuideModal';
 import { CartDrawer } from './components/CartDrawer';
@@ -10,27 +9,126 @@ import { WishlistDrawer } from './components/WishlistDrawer';
 import { OutfitBuilder } from './components/OutfitBuilder';
 import { BoutiqueInfo } from './components/BoutiqueInfo';
 import { CheckoutModal } from './components/CheckoutModal';
+import { MatterhornImporterModal } from './components/MatterhornImporterModal';
+import { ProductCompareModal } from './components/ProductCompareModal';
 import { Footer } from './components/Footer';
-import { INITIAL_PRODUCTS } from './data/products';
+import { MATTERHORN_PRODUCTS } from './data/matterhornProducts';
+import { matterhornApi, CategoryData } from './services/matterhornApi';
 import { 
   Product, 
   ProductCategory, 
   ProductSize, 
   ProductColor, 
   CartItem, 
-  FilterState, 
   OrderDetails 
 } from './types';
-import { Sparkles, ShoppingBag } from 'lucide-react';
+import { Sparkles, Scale } from 'lucide-react';
 
 export const App: React.FC = () => {
-  // Products
-  const [products] = useState<Product[]>(INITIAL_PRODUCTS);
+  // Navigation: 'home' | 'shop'
+  const [activePage, setActivePage] = useState<'home' | 'shop'>('home');
+  const [currentCategory, setCurrentCategory] = useState<ProductCategory>('tutti');
+
+  // Search input
+  const [searchQuery, setSearchQuery] = useState('');
+
+  // Products Catalog: ONLY authentic Matterhorn Moda products
+  const [products, setProducts] = useState<Product[]>(() => {
+    try {
+      const saved = localStorage.getItem('matterhorn_store_products');
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        if (Array.isArray(parsed) && parsed.length > 0) return parsed;
+      }
+    } catch {}
+    return MATTERHORN_PRODUCTS;
+  });
+
+  // Categories list with counts
+  const [categories, setCategories] = useState<CategoryData[]>([
+    {
+      id: 'donna',
+      name: 'Abbigliamento Donna',
+      matterhornId: '60',
+      count: 15,
+      image: 'https://matterhorn-moda.it/pics_source/976954.jpg',
+      description: 'Completi, pantaloni, vestiti da giorno e moda femminile raffinata'
+    },
+    {
+      id: 'intimo',
+      name: 'Intimo & Lingerie',
+      matterhornId: '62',
+      count: 10,
+      image: 'https://matterhorn-moda.it/pics_source/1135401.jpg',
+      description: 'Reggiseni push-up, pizzi floreali, body e completi seducenti'
+    },
+    {
+      id: 'uomo',
+      name: 'Moda Uomo',
+      matterhornId: '223',
+      count: 10,
+      image: 'https://matterhorn-moda.it/pics_source/1130664.jpg',
+      description: 'Boxer anatomici, slip sartoriali e intimo maschile di qualità'
+    },
+    {
+      id: 'accessori',
+      name: 'Borse & Accessori',
+      matterhornId: '171',
+      count: 5,
+      image: 'https://matterhorn-moda.it/pics_source/1090400.jpg',
+      description: 'Sciarpe, balaklava, berretti, borse e accessori di tendenza'
+    },
+    {
+      id: 'scarpe',
+      name: 'Calzature & Scarpe',
+      matterhornId: '170',
+      count: 4,
+      image: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=600&q=80',
+      description: 'Décolleté, sandali, calzature e accessori'
+    },
+    {
+      id: 'costumi',
+      name: 'Costumi da Bagno',
+      matterhornId: '30',
+      count: 4,
+      image: 'https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=600&q=80',
+      description: 'Bikini due pezzi, costumi interi e moda mare estiva'
+    }
+  ]);
+
+  // Load from backend on start
+  const loadBackendData = useCallback(async () => {
+    try {
+      const [backendProducts, backendCategories] = await Promise.all([
+        matterhornApi.getProducts(),
+        matterhornApi.getCategories()
+      ]);
+      if (backendProducts && backendProducts.length > 0) {
+        setProducts(backendProducts);
+      }
+      if (backendCategories && backendCategories.length > 0) {
+        setCategories(backendCategories);
+      }
+    } catch {
+      // Use local bundle fallback
+    }
+  }, []);
+
+  useEffect(() => {
+    loadBackendData();
+  }, [loadBackendData]);
+
+  // Persist products locally
+  useEffect(() => {
+    try {
+      localStorage.setItem('matterhorn_store_products', JSON.stringify(products));
+    } catch {}
+  }, [products]);
 
   // Cart State (Persisted in localStorage)
   const [cart, setCart] = useState<CartItem[]>(() => {
     try {
-      const saved = localStorage.getItem('atelier_cart');
+      const saved = localStorage.getItem('matterhorn_cart');
       return saved ? JSON.parse(saved) : [];
     } catch {
       return [];
@@ -40,7 +138,17 @@ export const App: React.FC = () => {
   // Wishlist State (Persisted in localStorage)
   const [wishlist, setWishlist] = useState<Product[]>(() => {
     try {
-      const saved = localStorage.getItem('atelier_wishlist');
+      const saved = localStorage.getItem('matterhorn_wishlist');
+      return saved ? JSON.parse(saved) : [];
+    } catch {
+      return [];
+    }
+  });
+
+  // Product Comparison state (Max 4 products)
+  const [compareProductIds, setCompareProductIds] = useState<string[]>(() => {
+    try {
+      const saved = localStorage.getItem('matterhorn_compare');
       return saved ? JSON.parse(saved) : [];
     } catch {
       return [];
@@ -49,27 +157,21 @@ export const App: React.FC = () => {
 
   useEffect(() => {
     try {
-      localStorage.setItem('atelier_cart', JSON.stringify(cart));
+      localStorage.setItem('matterhorn_cart', JSON.stringify(cart));
     } catch {}
   }, [cart]);
 
   useEffect(() => {
     try {
-      localStorage.setItem('atelier_wishlist', JSON.stringify(wishlist));
+      localStorage.setItem('matterhorn_wishlist', JSON.stringify(wishlist));
     } catch {}
   }, [wishlist]);
 
-  // Filter State
-  const [filters, setFilters] = useState<FilterState>({
-    category: 'tutti',
-    subcategory: null,
-    search: '',
-    maxPrice: 600,
-    selectedSize: null,
-    sortBy: 'featured',
-    onSaleOnly: false,
-    material: null
-  });
+  useEffect(() => {
+    try {
+      localStorage.setItem('matterhorn_compare', JSON.stringify(compareProductIds));
+    } catch {}
+  }, [compareProductIds]);
 
   // Modals & Drawers state
   const [quickViewProduct, setQuickViewProduct] = useState<Product | null>(null);
@@ -79,6 +181,8 @@ export const App: React.FC = () => {
   const [isOutfitBuilderOpen, setIsOutfitBuilderOpen] = useState(false);
   const [isBoutiqueInfoOpen, setIsBoutiqueInfoOpen] = useState(false);
   const [isCheckoutOpen, setIsCheckoutOpen] = useState(false);
+  const [isImporterOpen, setIsImporterOpen] = useState(false);
+  const [isCompareOpen, setIsCompareOpen] = useState(false);
 
   // Checkout discount & promo pass-through
   const [checkoutPromo, setCheckoutPromo] = useState<string | null>(null);
@@ -91,17 +195,71 @@ export const App: React.FC = () => {
     setToastMessage(msg);
     setTimeout(() => {
       setToastMessage(null);
-    }, 2800);
+    }, 3000);
+  };
+
+  // Navigation handlers
+  const handleNavigate = (page: 'home' | 'shop', cat: ProductCategory = 'tutti') => {
+    setActivePage(page);
+    setCurrentCategory(cat);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  // Compare products toggle
+  const handleToggleCompare = (product: Product) => {
+    setCompareProductIds(prev => {
+      if (prev.includes(product.id)) {
+        showToast(`Rimosso dal confronto: ${product.name}`);
+        return prev.filter(id => id !== product.id);
+      }
+      if (prev.length >= 4) {
+        showToast('Puoi confrontare fino a un massimo di 4 prodotti contemporaneamente.');
+        return prev;
+      }
+      showToast(`Aggiunto al confronto: ${product.name}`);
+      return [...prev, product.id];
+    });
+  };
+
+  const handleRemoveFromCompare = (id: string) => {
+    setCompareProductIds(prev => prev.filter(i => i !== id));
+  };
+
+  const handleClearCompare = () => {
+    setCompareProductIds([]);
+    showToast('Confronto prodotti azzerato.');
+  };
+
+  // Importer actions
+  const handleImportSuccess = (imported: Product[], mode: 'append' | 'replace') => {
+    if (mode === 'replace') {
+      setProducts(imported);
+      showToast(`Catalogo sostituito con ${imported.length} prodotti da Matterhorn Moda!`);
+    } else {
+      setProducts(prev => {
+        const existingIds = new Set(prev.map(p => p.id));
+        const newItems = imported.filter(p => !existingIds.has(p.id));
+        return [...newItems, ...prev];
+      });
+      showToast(`Aggiunti ${imported.length} capi dal feed XML di Matterhorn Moda!`);
+    }
+    loadBackendData();
+  };
+
+  const handleRestoreOriginal = () => {
+    setProducts(MATTERHORN_PRODUCTS);
+    showToast('Catalogo reimpostato con successo.');
+    loadBackendData();
   };
 
   // Cart actions
   const handleAddToCart = (
     product: Product, 
-    size?: ProductSize, 
+    size?: ProductSize | string, 
     color?: ProductColor, 
     qty: number = 1
   ) => {
-    const chosenSize = size || product.sizes[0] || 'M';
+    const chosenSize = (size || product.sizes[0] || 'M') as ProductSize;
     const chosenColor = color || product.colors[0];
     const itemId = `${product.id}-${chosenSize}-${chosenColor.name}`;
 
@@ -158,7 +316,7 @@ export const App: React.FC = () => {
   };
 
   // Outfit bundle addition
-  const handleAddLookToCart = (bundle: { product: Product; size: ProductSize; color: ProductColor }[]) => {
+  const handleAddLookToCart = (bundle: { product: Product; size: ProductSize | string; color: ProductColor }[]) => {
     bundle.forEach(item => {
       handleAddToCart(item.product, item.size, item.color, 1);
     });
@@ -178,87 +336,12 @@ export const App: React.FC = () => {
     showToast(`Ordine #${order.orderNumber} registrato con successo!`);
   };
 
-  // Filter handlers
-  const handleCategoryChange = (cat: ProductCategory) => {
-    setFilters(prev => ({
-      ...prev,
-      category: cat,
-      subcategory: null,
-      onSaleOnly: cat === 'saldi' ? true : prev.onSaleOnly
-    }));
-  };
+  // Compared products resolution
+  const comparedProductsList = useMemo(() => {
+    return products.filter(p => compareProductIds.includes(p.id));
+  }, [products, compareProductIds]);
 
-  const handleFilterUpdate = (newFilters: Partial<FilterState>) => {
-    setFilters(prev => ({ ...prev, ...newFilters }));
-  };
-
-  const handleResetFilters = () => {
-    setFilters({
-      category: 'tutti',
-      subcategory: null,
-      search: '',
-      maxPrice: 600,
-      selectedSize: null,
-      sortBy: 'featured',
-      onSaleOnly: false,
-      material: null
-    });
-  };
-
-  // Filtered Products computation
-  const filteredProducts = useMemo(() => {
-    return products.filter(p => {
-      // Category filter
-      if (filters.category === 'saldi') {
-        if (!p.isSale) return false;
-      } else if (filters.category !== 'tutti') {
-        if (p.category !== filters.category) return false;
-      }
-
-      // Subcategory filter
-      if (filters.subcategory && p.subcategory !== filters.subcategory) {
-        return false;
-      }
-
-      // On sale toggle
-      if (filters.onSaleOnly && !p.isSale) {
-        return false;
-      }
-
-      // Max price
-      if (p.price > filters.maxPrice) {
-        return false;
-      }
-
-      // Size
-      if (filters.selectedSize && !p.sizes.includes(filters.selectedSize)) {
-        return false;
-      }
-
-      // Search query (name, subtitle, description, madeIn, composition)
-      if (filters.search) {
-        const q = filters.search.toLowerCase();
-        const matches = 
-          p.name.toLowerCase().includes(q) ||
-          p.subtitle.toLowerCase().includes(q) ||
-          p.subcategory.toLowerCase().includes(q) ||
-          p.description.toLowerCase().includes(q) ||
-          p.composition.toLowerCase().includes(q) ||
-          p.madeIn.toLowerCase().includes(q);
-        if (!matches) return false;
-      }
-
-      return true;
-    }).sort((a, b) => {
-      if (filters.sortBy === 'price-asc') return a.price - b.price;
-      if (filters.sortBy === 'price-desc') return b.price - a.price;
-      if (filters.sortBy === 'rating') return b.rating - a.rating;
-      if (filters.sortBy === 'newest') return (b.isNew ? 1 : 0) - (a.isNew ? 1 : 0);
-      return 0; // 'featured' keep original
-    });
-  }, [products, filters]);
-
-  // Cart totals for checkout calculation
+  // Cart totals
   const subtotal = cart.reduce((acc, i) => acc + i.product.price * i.quantity, 0);
   const shippingCost = subtotal >= 100 || subtotal === 0 ? 0 : 9.9;
   const grandTotal = Math.max(0, subtotal - checkoutDiscount + shippingCost);
@@ -273,93 +356,77 @@ export const App: React.FC = () => {
         </div>
       )}
 
+      {/* Floating Compare Bar */}
+      {compareProductIds.length > 0 && (
+        <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-40 bg-stone-900/95 backdrop-blur-md text-white px-5 py-3 rounded-full shadow-2xl border border-stone-700 flex items-center gap-4 animate-in slide-in-from-bottom duration-300">
+          <div className="flex items-center gap-2 text-xs">
+            <Scale className="w-4 h-4 text-amber-400" />
+            <span><strong>{compareProductIds.length}</strong> capi selezionati per il confronto</span>
+          </div>
+
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => setIsCompareOpen(true)}
+              className="px-4 py-1.5 rounded-full bg-amber-600 hover:bg-amber-500 text-stone-950 font-bold text-xs uppercase tracking-wider transition-colors cursor-pointer"
+            >
+              Confronta Ora
+            </button>
+            <button
+              onClick={handleClearCompare}
+              className="text-stone-400 hover:text-white text-xs underline cursor-pointer"
+            >
+              Annulla
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* Main Header */}
       <Header
-        currentCategory={filters.category}
-        onSelectCategory={handleCategoryChange}
+        activePage={activePage}
+        onNavigate={handleNavigate}
+        currentCategory={currentCategory}
         cartCount={cart.reduce((sum, i) => sum + i.quantity, 0)}
         wishlistCount={wishlist.length}
+        compareCount={compareProductIds.length}
         onOpenCart={() => setIsCartOpen(true)}
         onOpenWishlist={() => setIsWishlistOpen(true)}
-        searchQuery={filters.search}
-        onSearchChange={(q) => setFilters(prev => ({ ...prev, search: q }))}
+        onOpenCompare={() => setIsCompareOpen(true)}
+        onOpenImporter={() => setIsImporterOpen(true)}
+        searchQuery={searchQuery}
+        onSearchChange={setSearchQuery}
         onOpenOutfitBuilder={() => setIsOutfitBuilderOpen(true)}
         onOpenBoutiqueInfo={() => setIsBoutiqueInfoOpen(true)}
       />
 
-      {/* Hero Banner (Shown when not heavily searching or on homepage) */}
-      {!filters.search && filters.category === 'tutti' && (
-        <Hero
-          onSelectCategory={handleCategoryChange}
-          onOpenOutfitBuilder={() => setIsOutfitBuilderOpen(true)}
-        />
-      )}
-
-      {/* Main Content Area */}
-      <main className="flex-1 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
-        {/* Section Heading */}
-        <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-4 gap-2">
-          <div>
-            <span className="text-xs font-semibold tracking-widest text-amber-800 uppercase">
-              {filters.category === 'saldi' ? 'Occasioni di Stagione' : 'Collezioni Sartoriali Italiane'}
-            </span>
-            <h2 className="font-serif text-3xl sm:text-4xl font-light text-stone-900 capitalize mt-0.5">
-              {filters.category === 'tutti' 
-                ? 'Tutti i Capi d’Abbigliamento' 
-                : filters.category === 'saldi'
-                ? 'Saldi Esclusivi'
-                : `Collezione ${filters.category}`}
-            </h2>
-          </div>
-
-          {/* Quick Outfit Builder Callout */}
-          <button
-            onClick={() => setIsOutfitBuilderOpen(true)}
-            className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-amber-50 text-amber-900 border border-amber-200/80 hover:bg-amber-100 transition-colors text-xs font-semibold cursor-pointer w-fit"
-          >
-            <Sparkles className="w-3.5 h-3.5 text-amber-700" />
-            <span>Mix & Match Outfit (-15%)</span>
-          </button>
-        </div>
-
-        {/* Filter and Subcategory Bar */}
-        <FilterBar
-          filters={filters}
-          onFilterChange={handleFilterUpdate}
-          onResetFilters={handleResetFilters}
-          totalResults={filteredProducts.length}
-        />
-
-        {/* Product Grid */}
-        {filteredProducts.length === 0 ? (
-          <div className="bg-white rounded-2xl p-12 text-center border border-stone-200 max-w-lg mx-auto my-8">
-            <div className="w-16 h-16 rounded-full bg-stone-100 flex items-center justify-center mx-auto text-stone-400 mb-4">
-              <ShoppingBag className="w-8 h-8" />
-            </div>
-            <h3 className="font-serif text-xl font-bold text-stone-800">Nessun capo trovato</h3>
-            <p className="text-xs text-stone-500 mt-2 mb-6 leading-relaxed">
-              Non ci sono articoli che corrispondono esattamente ai filtri selezionati. Prova a modificare i criteri di ricerca.
-            </p>
-            <button
-              onClick={handleResetFilters}
-              className="px-6 py-2.5 bg-stone-900 text-white rounded-xl text-xs font-semibold uppercase tracking-wider hover:bg-stone-800 transition-colors cursor-pointer"
-            >
-              Mostra tutti i capi
-            </button>
-          </div>
+      {/* Main Page Content */}
+      <main className="flex-1 w-full">
+        {activePage === 'home' ? (
+          <HomePage
+            categories={categories}
+            onSelectCategory={(cat) => handleNavigate('shop', cat)}
+            onNavigateToShop={(cat) => handleNavigate('shop', cat || 'tutti')}
+            onOpenImporter={() => setIsImporterOpen(true)}
+            featuredProducts={products}
+            wishlist={wishlist}
+            compareProductIds={compareProductIds}
+            onToggleWishlist={handleToggleWishlist}
+            onQuickView={(p) => setQuickViewProduct(p)}
+            onAddToCart={(p) => handleAddToCart(p)}
+            onToggleCompare={handleToggleCompare}
+          />
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8">
-            {filteredProducts.map((product) => (
-              <ProductCard
-                key={product.id}
-                product={product}
-                isWishlisted={wishlist.some(p => p.id === product.id)}
-                onToggleWishlist={handleToggleWishlist}
-                onQuickView={(p) => setQuickViewProduct(p)}
-                onAddToCart={(p) => handleAddToCart(p)}
-              />
-            ))}
-          </div>
+          <ShopPage
+            products={products}
+            currentCategory={currentCategory}
+            onSelectCategory={setCurrentCategory}
+            wishlist={wishlist}
+            compareProductIds={compareProductIds}
+            onToggleWishlist={handleToggleWishlist}
+            onQuickView={(p) => setQuickViewProduct(p)}
+            onAddToCart={(p) => handleAddToCart(p)}
+            onToggleCompare={handleToggleCompare}
+          />
         )}
       </main>
 
@@ -421,9 +488,29 @@ export const App: React.FC = () => {
         onOrderCompleted={handleOrderCompleted}
       />
 
+      {/* Matterhorn Moda XML Importer Modal */}
+      <MatterhornImporterModal
+        isOpen={isImporterOpen}
+        onClose={() => setIsImporterOpen(false)}
+        onImportSuccess={handleImportSuccess}
+        onRestoreOriginal={handleRestoreOriginal}
+        currentCatalogCount={products.length}
+      />
+
+      {/* Product Comparison Modal */}
+      <ProductCompareModal
+        isOpen={isCompareOpen}
+        onClose={() => setIsCompareOpen(false)}
+        compareProducts={comparedProductsList}
+        onRemoveFromCompare={handleRemoveFromCompare}
+        onClearCompare={handleClearCompare}
+        onAddToCart={handleAddToCart}
+        onQuickView={(p) => setQuickViewProduct(p)}
+      />
+
       {/* Footer */}
       <Footer
-        onSelectCategory={handleCategoryChange}
+        onSelectCategory={(cat) => handleNavigate('shop', cat)}
         onOpenSizeGuide={() => setIsSizeGuideOpen(true)}
         onOpenBoutiqueInfo={() => setIsBoutiqueInfoOpen(true)}
         onOpenOutfitBuilder={() => setIsOutfitBuilderOpen(true)}
